@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AdminViewDoctorsActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="800dp"
+        android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:textStyle="bold"
+        android:textSize="36dp"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal"
+        android:text="Patients Search Hospitals Page"
+        android:textColor="@color/black"/>
+
+
+        <!--<TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center_horizontal"
+            android:text="Patients Search Hospitals Page"
+            android:textColor="@color/black"/>-->
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center_horizontal"
+            android:text="Your Current Location"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/locationTxt"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Location"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/viewBtn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/shapesignup"
+            android:shadowColor="@android:color/transparent"
+            android:textColor="@color/white"
+            android:text="CLICK TO SEARCH HOSPITALS NEAR YOUR CURRENT LOCATION" />
+
+        <ListView
+            android:id="@+id/list_view"
+            android:layout_width="match_parent"
+            android:textColor="@color/black"
+            android:layout_height="600dp" />
+
+        <!--<TextView
+            android:id="@+id/showLocation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="Location"
+            android:textSize="24sp" />-->
+
+        <!--
+        <Button
+            android:id="@+id/btnGetLocation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Get Location" />
+         -->
+    </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

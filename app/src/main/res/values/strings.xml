@@ -1,0 +1,1127 @@
+<resources>
+    <string name="app_name">HospitalFinderApp</string>
+    <string-array name="qualification">
+        <item>Select Qualification</item>
+        <item>MBBS</item>
+        <item>MD</item>
+        <item>Aurvedic</item>
+        <item>Homeopathy</item>
+    </string-array>
+
+    <string-array name="specialization">
+        <item>Select Specialization</item>
+        <item>General Physician</item>
+        <item>Surgeon</item>
+        <item>Children Specialist</item>
+        <item>Orthopeadic</item>
+    </string-array>
+
+    <string-array name="medicinetypes">
+        <item>Select Type</item>
+        <item>Tablets</item>
+        <item>Syrup</item>
+        <item>Injection</item>
+        <item>Liquid</item>
+    </string-array>
+
+    <string-array name="hospitallocation">
+        <item>Basavangudi</item>
+        <item>Basavangudi</item>
+        <item>Basaveshwar Nagar</item>
+        <item>Basaveshwar Nagar</item>
+        <item>Basaveshwar Nagar</item>
+        <item>Basaveshwar Nagar</item>
+        <item>Bashweshwarnagar</item>
+        <item>Bashweshwarnagar</item>
+        <item>Brigade Road</item>
+        <item>Brigade Road</item>
+        <item>Brigade Road</item>
+        <item>Brigade Road</item>
+        <item>Chikpet</item>
+        <item>Chikpet</item>
+        <item>Chikpet</item>
+        <item>Halasuru</item>
+        <item>Halasuru</item>
+        <item>Halasuru</item>
+        <item>Halasuru</item>
+        <item>HSR Layout</item>
+        <item>HSR Layout</item>
+        <item>HSR Layout</item>
+        <item>HSR Layout</item>
+        <item>Indira Nagar</item>
+        <item>Indira Nagar</item>
+        <item>Indira Nagar</item>
+        <item>Indiranagar</item>
+        <item>JayaNagar</item>
+        <item>Kalasipalya</item>
+        <item>Kalasipalya</item>
+        <item>Kumaraswamy Layout</item>
+        <item>Kumaraswamy Layout</item>
+        <item>Kumaraswamy Layout</item>
+        <item>Kumaraswamy Layout</item>
+        <item>KumaraSwamy layout</item>
+        <item>Majestic</item>
+        <item>Majestic</item>
+        <item>Malleshwaram</item>
+        <item>Malleshwaram</item>
+        <item>Malleswaram</item>
+        <item>Panduranga Nagar</item>
+        <item>Pulkeshi Nagar</item>
+        <item>Pulkeshi Nagar</item>
+        <item>Pulkeshi Nagar</item>
+        <item>Pulkeshi Nagar</item>
+        <item>Pulkeshi Nagar</item>
+        <item>Pulkeshi Nagar</item>
+        <item>RajajiNagar</item>
+        <item>RajajiNagar</item>
+        <item>Sanjay Nagar</item>
+        <item>Shantinagar</item>
+        <item>Shantinagar</item>
+        <item>Sheshadripuram</item>
+        <item>Sheshadripuram</item>
+        <item>Shivajinagar</item>
+        <item>Shivajinagar</item>
+        <item>Shivajinagar</item>
+        <item>Vasanth Nagar</item>
+        <item>Vasanth Nagar</item>
+        <item>Vijaynagar</item>
+        <item>Vijaynagar</item>
+        <item>Vijaynagar</item>
+        <item>Vijaynagar</item>
+        <item>Yelachenahalli</item>
+        <item>Yelachenahalli</item>
+        <item>Yelachenahalli</item>
+        <item>Yelachenahalli</item>
+        <item>Yeshwanthpur</item>
+        <item>Yeshwanthpur</item>
+        <item>Yeshwanthpur</item>
+		<item>Jakkur</item>
+<item>Jakkur</item>
+<item>Rajanukunte</item>
+<item>Rajanukunte</item>
+<item>Rajanukunte</item>
+    </string-array>
+
+    <string-array name="hospitalrating">
+        <item>3.9</item>
+        <item>4.5</item>
+        <item>4.6</item>
+        <item>4.6</item>
+        <item>3.4</item>
+        <item>3.2</item>
+        <item>4.3</item>
+        <item>4.6</item>
+        <item>4.7</item>
+        <item>4.4</item>
+        <item>4.4</item>
+        <item>4.2</item>
+        <item>4.7</item>
+        <item>3.5</item>
+        <item>4.7</item>
+        <item>4.3</item>
+        <item>4</item>
+        <item>3.1</item>
+        <item>4.7</item>
+        <item>4.3</item>
+        <item>4.6</item>
+        <item>3.5</item>
+        <item>3.5</item>
+        <item>4.2</item>
+        <item>4.3</item>
+        <item>4.5</item>
+        <item>4.6</item>
+        <item>4.8</item>
+        <item>4.4</item>
+        <item>2.9</item>
+        <item>4.7</item>
+        <item>4.7</item>
+        <item>4.4</item>
+        <item>4.2</item>
+        <item>4.4</item>
+        <item>3.8</item>
+        <item>4.4</item>
+        <item>4.6</item>
+        <item>2.8</item>
+        <item>4.2</item>
+        <item>4.6</item>
+        <item>4.5</item>
+        <item>4.5</item>
+        <item>4.3</item>
+        <item>4.6</item>
+        <item>3.8</item>
+        <item>4.8</item>
+        <item>4.6</item>
+        <item>3.8</item>
+        <item>3.1</item>
+        <item>3.7</item>
+        <item>2.7</item>
+        <item>4.3</item>
+        <item>4.2</item>
+        <item>4.1</item>
+        <item>3.9</item>
+        <item>4</item>
+        <item>3.8</item>
+        <item>3.2</item>
+        <item>4.5</item>
+        <item>3.3</item>
+        <item>4.3</item>
+        <item>2.9</item>
+        <item>4.1</item>
+        <item>4.9</item>
+        <item>4.6</item>
+        <item>4.2</item>
+        <item>4.6</item>
+        <item>4.7</item>
+        <item>4.5</item>
+		<item>4.1</item>
+<item>4.7</item>
+<item>3.5</item>
+<item>4.7</item>
+<item>3.9</item>
+    </string-array>
+
+    <string-array name="address">
+        <item>No 618, Sri Mallikarjuna Swamy, Gangamma Temple St, NR Colony, Bengaluru, Karnataka 560019</item>
+        <item>9, Pattalamma Temple Rd, near South End Circle, Basavanagudi, Bengaluru, Karnataka 560004</item>
+        <item>No. 6, Thimmaiah Layout, 1st Main, 3rd D Cross Rd, Block 2, 3rd Stage, Basaveshwar Nagar, Bengaluru, Karnataka 560079</item>
+        <item>No 227, 1st Main Rd, Near 88 bus stop, Sharada Colony, KHB Colony, Basaveshwar Nagar, Bengaluru, Karnataka 560079</item>
+        <item>334, 8th Main Rd, 3rd Stage 4th Block, Shakthi Ganapathi Nagar, Basaveshwar Nagar, Bengaluru, Karnataka 560079</item>
+        <item>LIC Colony, 100/101, Shankar Mutt Rd, near Shankar Mutt, West of Chord Road, Basaveshwar Nagar, Bengaluru, Karnataka 560079</item>
+        <item>52/10, 80 Feet Ring Rd, A D Halli, 2nd Stage, KHB Colony, Basaveshwar Nagar, Bengaluru, Karnataka 560079</item>
+        <item>335, Siddhaiah Puranik Rd, 3rd Stage 4th Block, Shakthi Ganapathi Nagar, Basaveshwar Nagar, Bengaluru, Karnataka 560079</item>
+        <item># 33, Brigade Cross Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001</item>
+        <item>368 No:62, Richmond Road, Mother Teresa Rd, Entry from, behind Sacred Heart School Sacred Heart Church, Richmond Town, Bengaluru, Karnataka 560025</item>
+        <item>18-17, Cambridge Rd, Halasuru, Cambridge Layout, Bengaluru, Karnataka 560008</item>
+        <item>5, Richmond Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025</item>
+        <item>1, Old, 28, Platform Rd, near Mantri Square Mall, Seshadripuram, Bengaluru, Karnataka 560020</item>
+        <item>Tulusi Thotta, 12, Park Rd, Balepete, Chickpet, Bengaluru, Karnataka 560053</item>
+        <item>SHOP NO.105, 1ST FLOOR, SANKALP BUSINESS BAY, 8, Magadi Main Rd, Bengaluru, Karnataka 560023</item>
+        <item>117, Old Madras Rd, opp. venkateshwara temple, Halasuru, Lingayana Palya, Bengaluru, Karnataka 560008</item>
+        <item>XJHG+GQR, Yellamen 2nd Cross Rd, Halasuru, Dodakattappa, Bengaluru, Karnataka 560008</item>
+        <item>XJFG+CMR, Cambridge Rd, Halasuru, Udani Layout, Bengaluru, Karnataka 560008</item>
+        <item>Q Medical Center(Speciality Hospital, 43, Dickenson Rd, next to Hasanath College, Halasuru, Hanumanthappa Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042</item>
+        <item>No 33/A, 22nd Cross Rd, opposite HSR Club, Sector 3, HSR Layout, Bengaluru, Karnataka 560102</item>
+        <item>Basant Health Centre Building, 1, 24th Cross Rd, Sector 3, HSR Layout, Bengaluru, Karnataka 560102</item>
+        <item>20, 21, 14th Main Rd, opposite Agara Lake, Sector 5, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102</item>
+        <item>2361, 24th Main Rd, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102</item>
+        <item>483, 13th Cross Rd, Indira Nagar II Stage, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038</item>
+        <item>548/1, Chinmaya Mission Hospital Rd, Stage 1, Indiranagar, Bengaluru, Karnataka 560038</item>
+        <item>No-324, Chinmaya Mission Hospital Rd, Indira Nagar 1st Stage, Stage 1, Indiranagar, Bengaluru, Karnataka 560038</item>
+        <item>266/C, 80 Feet Rd, near C.M.H HOSPITAL, HAL 3rd Stage, Indiranagar, Bengaluru, Karnataka 560038</item>
+        <item>256/14, Kanakapura Main Road, opp. ICICI BAnk, 7th Block, Landmark:, Bengaluru, Karnataka 560070</item>
+        <item>Dispensary Rd, 2nd Phase, Kalasipalya, Bengaluru, Karnataka 560002</item>
+        <item>Victoria Hospital Compound, Sultan Rd, Kalasipalya, Bengaluru, Karnataka 560002</item>
+        <item>Bus Stop, 15, 70th Cross Road, opp. to 15E, Kumaraswamy Layout II Stage, 1st Stage, Kumaraswamy Layout, Bengaluru, Karnataka 560078</item>
+        <item>Bus Stop, 15, 70th Cross Road, opp. to 15E, Kumaraswamy Layout II Stage, 1st Stage, Kumaraswamy Layout, Bengaluru, Karnataka 560078</item>
+        <item>Shavige Malleshwara Hills, DSI, Banashankari, behind DSI campus, Kumaraswamy Layout, Bengaluru, Karnataka 560078</item>
+        <item>2572, 18th Main Rd, Kumaraswamy Layout II Stage, Stage 2, Kumaraswamy Layout, Bengaluru, Karnataka 560078</item>
+        <item>Shavige Malleshwara Hills, DSI, Banashankari, behind DSI campus, Kumaraswamy Layout, Bengaluru, Karnataka 560078</item>
+        <item>#5, Nrupathunga Rd, RBI Colony, Sampangi Rama Nagara, Bengaluru, Karnataka 560001</item>
+        <item>XHQF+42G, Platform Rd, VV Giri Colony, Seshadripuram, Bengaluru, Karnataka 560020</item>
+        <item>No. 71, 11th Main Rd, Opp Railway Station, Malleshwara, Bengaluru, Karnataka 560003</item>
+        <item>15th Cross, 95, Margosa Rd, opp. Malleshwaram, Malleshwara, Bengaluru, Karnataka 560055</item>
+        <item>No.340 (Old No. 522), 11th Cross, Sampige Road, Opposite Yadugiri Yathiraja Mutt Malleswaram Market Bus Stop, beside Max Showroom, Bengaluru, Karnataka 560003</item>
+        <item>154/9, Bannerghatta Rd, opposite IIM-B, Sahyadri Layout, Panduranga Nagar, Bengaluru, Karnataka 560076</item>
+        <item>6/1, Promenade Rd, behind Coles Park, Pulkeshi Nagar, Pulikeshi Nagar, Bengaluru, Karnataka 560005</item>
+        <item>6/1, Promenade Rd, behind Coles Park, Pulkeshi Nagar, Pulikeshi Nagar, Bengaluru, Karnataka 560005</item>
+        <item>No.1, Moore Market Square, Bourdillon Road, Pulikeshi Nagar, Bengaluru, Karnataka 560005</item>
+        <item>158, MM Road, Pulikeshi Nagar, Bengaluru, Karnataka 560005</item>
+        <item>8, Spencer Rd, Cleveland Town, Pulikeshi Nagar, Bengaluru, Karnataka 560005</item>
+        <item>N0, 92, Mosque Rd, Pulikeshi Nagar, Bengaluru, Karnataka 560005</item>
+        <item>1st Block, 7, Magadi Main Rd, 6th Block, Rajajinagar, Bengaluru, Karnataka 560023</item>
+        <item>1031, 20th Main Rd, 5th Block, Jedara Halli, Rajajinagar, Bengaluru, Karnataka 560010</item>
+        <item>No 138, RMV 2nd Stage, AECS Layout, Sanjay Nagar, Bengaluru, Karnataka 560094</item>
+        <item>XJ52+JHX, Shanti Nagar, Bengaluru, Karnataka 560027</item>
+        <item>15, Eagles Street, Langford Town, Shanti Nagar, Bengaluru, Karnataka 560025</item>
+        <item>4, 4th Cross Rd, near Subramanya Temple, 4th Block, Kumara Park West, Seshadripuram, Bengaluru, Karnataka 560020</item>
+        <item>65, 1st Main Rd, 4th Block, Seshadripuram, Bengaluru, Karnataka 560020</item>
+        <item>No.14, Cunningham Road, Bangalore - 560052 (Near Sigma Mall)</item>
+        <item>No. 110, 6th Main, ITI Layout, Benson Town, Bangalore - 560046 (Near Chinnappa Garden)</item>
+        <item>17/1, AM Road, Bharati Nagar, Shivaji Nagar, Bengaluru, Karnataka 560051</item>
+        <item>No.3, Millers Tank Bund Road, Off Cunningham Rd, Opposite Fortune Hotel, Vasanth Nagar, Bengaluru, Karnataka 560052</item>
+        <item>17, Millers Rd, Kaverappa Layout, Vasanth Nagar, Bengaluru, Karnataka 560052</item>
+        <item>Metro Station, # 46, 17th Cross, MC road, near Vijayanagar, Vijayanagar, Bengaluru, Karnataka 560040</item>
+        <item>27-A, 2374/26,Platinum Plaza, Club Road, Vijayanagar,Bangalore, 27-A, 8th Cross Rd, Hoshalli Extension, Hoshalli Stage 1, Vijayanagar, Bengaluru, Karnataka 560040</item>
+        <item>Magadi, 91, Chord Rd, Vijayanagar, Bengaluru, Karnataka 560040</item>
+        <item>#318, 6th Main, 2nd Cross Rd, Vijayanagar, Bengaluru, Karnataka 560040</item>
+        <item>6 J C Kanakapura Road, Industrial Area, near Metro, Yelachenahalli, Bengaluru, Karnataka 560062</item>
+        <item>100, Ashrama Rd, opposite canara bank atm, yelchenahalli, near venkateshwar temple, Bengaluru, Karnataka 560078</item>
+        <item>18, Kanakapura Rd, Venkatareddy Layout, Industrial Area, Doddakallasandra, Uttarahalli Hobli, Bengaluru, Karnataka 560062</item>
+        <item>21, 9th Cross Rd, opposite to Rajshekhar Hospital, Sarakki Industrial Layout, Phase 1, 1st Phase, J. P. Nagar, Bengaluru, Karnataka 560078</item>
+        <item>4/1, 4/1, Tumkur Rd, Yeshwanthpur Industrial Area, Phase 1, Yeswanthpur, Bengaluru, Karnataka 560022</item>
+        <item>Manipal Hospitals 26/4, BRIGADE GATEWAY, yeshwanthpur, beside Metro, Malleshwara, Bengaluru, 560055</item>
+        <item>METRO Station, 2, Tumkur Rd, next to Goraguntepalya, Goraguntepalya, Yeswanthpur, Bengaluru, Karnataka 560022</item>
+		<item>371 Dasarahalli Yelahanka Main Road H A Farm Post, Behind Manyata Tech Park Bangalore-24, 52, Kaveri Layout, Mariyannapalya, Jakkur Dasarahalli, Bengaluru, Karnataka 560024</item>
+<item>No. 43/2, NH 7, New International Airport Road, Sahakara Nagar, Jakkur, Bangalore - 560092 (Next to Hyundai Showroom, Opposite to Godrej Apartment)</item>
+<item>5HF7+6JW, Rajanukunte, Karnataka 560064</item>
+<item>5HC7+7PH, Doddaballapur Main Rd, Suryodaya Layout, Bengaluru, Rajanukunte, Karnataka 560064</item>
+<item>Rajanukunte, Karnataka 560064</item>
+    </string-array>
+
+    <string-array name="lattitude">
+        <item>12.9389</item>
+        <item>12.9716</item>
+        <item>12.9857</item>
+        <item>12.988237</item>
+        <item>12.99284</item>
+        <item>12.99796</item>
+        <item>12.993</item>
+        <item>13.001</item>
+        <item>12.966</item>
+        <item>12.991</item>
+        <item>12.97163</item>
+        <item>12.96546</item>
+        <item>12.9543</item>
+        <item>12.97312</item>
+        <item>12.9777</item>
+        <item>12.9788</item>
+        <item>12.9899</item>
+        <item>12.9736</item>
+        <item>12.97909</item>
+        <item>12.900249</item>
+        <item>12.90808</item>
+        <item>12.91911</item>
+        <item>12.91445</item>
+        <item>12.981192</item>
+        <item>12.97807</item>
+        <item>12.97845</item>
+        <item>12.973891</item>
+        <item>12.9744</item>
+        <item>12.9614</item>
+        <item>12.9711</item>
+        <item>12.903025</item>
+        <item>12.90309</item>
+        <item>12.90811</item>
+        <item>12.90097</item>
+        <item>12.90795</item>
+        <item>12.9878</item>
+        <item>12.9591</item>
+        <item>13.0058</item>
+        <item>12.9411</item>
+        <item>12.998465</item>
+        <item>12.891507</item>
+        <item>12.995142</item>
+        <item>12.99579</item>
+        <item>13</item>
+        <item>13</item>
+        <item>12.99559</item>
+        <item>12.9972</item>
+        <item>12.9821</item>
+        <item>12.9883</item>
+        <item>13.032286</item>
+        <item>12.9569</item>
+        <item>12.9737</item>
+        <item>12.9929</item>
+        <item>12.9861</item>
+        <item>12.988318</item>
+        <item>13.00388</item>
+        <item>12.98707</item>
+        <item>12.9915</item>
+        <item>12.9577</item>
+        <item>12.9744</item>
+        <item>12.96769</item>
+        <item>12.9743605</item>
+        <item>12.97088</item>
+        <item>12.893403</item>
+        <item>12.89871</item>
+        <item>12.88827</item>
+        <item>12.911</item>
+        <item>13.027536</item>
+        <item>13.008</item>
+        <item>13.02878</item>
+		<item>13.05244</item>
+<item>13.05474</item>
+<item>13.17309</item>
+<item>13.17067</item>
+<item>13.17147</item>
+    </string-array>
+
+    <string-array name="longitude">
+        <item>77.4962</item>
+        <item>77.4548</item>
+        <item>77.46111</item>
+        <item>77.534265</item>
+        <item>77.45633</item>
+        <item>77.45805</item>
+        <item>77.4563</item>
+        <item>77.4816</item>
+        <item>77.5274</item>
+        <item>77.4954</item>
+        <item>77.54492</item>
+        <item>77.51751</item>
+        <item>77.5438</item>
+        <item>77.49014</item>
+        <item>77.546</item>
+        <item>77.5445</item>
+        <item>77.5121</item>
+        <item>77.54424</item>
+        <item>77.53297</item>
+        <item>77.642213</item>
+        <item>77.56111</item>
+        <item>77.55572</item>
+        <item>77.56677</item>
+        <item>77.636542</item>
+        <item>77.55486</item>
+        <item>77.55522</item>
+        <item>77.648735</item>
+        <item>77.4837</item>
+        <item>77.4916</item>
+        <item>77.5041</item>
+        <item>77.560423</item>
+        <item>77.47821</item>
+        <item>77.48258</item>
+        <item>77.47742</item>
+        <item>77.565063</item>
+        <item>77.4902</item>
+        <item>77.5191</item>
+        <item>77.4869</item>
+        <item>77.4851</item>
+        <item>77.573544</item>
+        <item>77.602184</item>
+        <item>77.608467</item>
+        <item>77.52589</item>
+        <item>77.53225</item>
+        <item>77.53567</item>
+        <item>77.52896</item>
+        <item>77.53219</item>
+        <item>77.467</item>
+        <item>77.49</item>
+        <item>77.576887</item>
+        <item>77.5223</item>
+        <item>77.5257</item>
+        <item>77.4939</item>
+        <item>77.4551</item>
+        <item>77.594415</item>
+        <item>77.60395</item>
+        <item>77.52694</item>
+        <item>77.513</item>
+        <item>77.494</item>
+        <item>77.4603</item>
+        <item>77.45891</item>
+        <item>77.4602749</item>
+        <item>77.46263</item>
+        <item>77.568341</item>
+        <item>77.48674</item>
+        <item>77.47885</item>
+        <item>77.4973</item>
+        <item>77.543168</item>
+        <item>77.55</item>
+        <item>77.45706</item>
+		<item>77.52967</item>
+<item>77.59296</item>
+<item>77.48166</item>
+<item>77.48194</item>
+<item>77.4761</item>
+    </string-array>
+
+    <string-array name="map">
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124431.35376145823!2d77.48509454298944!3d12.941120467014125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae158b5de77713%3A0x5b3a6891156b90ae!2sNo%20618%2C%20Sri%20Mallikarjuna%20Swamy%2C%20Gangamma%20Temple%20St%2C%20NR%20Colony%2C%20Bengaluru%2C%20Karnataka%20560019!3m2!1d12.9411334!2d77.5674964!5e0!3m2!1sen!2sin!4v1704538306537!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124432.48277949284!2d77.49618834294827!3d12.938857869119389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae1593eeb7bf59%3A0x477134cb49033332!2s9%2C%20Pattalamma%20Temple%20Rd%2C%20near%20South%20End%20Circle%2C%20Basavanagudi%2C%20Bengaluru%2C%20Karnataka%20560004!3m2!1d12.9388708!2d77.5785902!5e0!3m2!1sen!2sin!4v1704538425885!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124409.06574405794!2d77.46111194380163!3d12.98570722554427!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae3deb6f4eefd7%3A0x94238a2ce99842c9!2sNo.%206%2C%20Thimmaiah%20Layout%2C%201st%20Main%2C%203rd%20D%20Cross%20Rd%2C%20Block%202%2C%203rd%20Stage%2C%20Basaveshwar%20Nagar%2C%20Bengaluru%2C%20Karnataka%20560079!3m2!1d12.9857202!2d77.5435138!5e0!3m2!1sen!2sin!4v1704714699639!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.7424074994474!2d77.53177607484166!3d12.988320587328674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3dbf3f4108ab%3A0xf4b028c80bf716bd!2sGopala%20Nethralaya!5e0!3m2!1sen!2sin!4v1703617826820!5m2!1sen!2sin" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124405.48860541405!2d77.45633534393197!3d12.992849218904471!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae3dbdff95fdd1%3A0x3faa5a60923dc616!2s334%2C%208th%20Main%20Rd%2C%203rd%20Stage%204th%20Block%2C%20Shakthi%20Ganapathi%20Nagar%2C%20Basaveshwar%20Nagar%2C%20Bengaluru%2C%20Karnataka%20560079!3m2!1d12.9928622!2d77.5387372!5e0!3m2!1sen!2sin!4v1704714939426!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124402.92506999358!2d77.45805934402537!3d12.997965114148796!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae3d978ca3818d%3A0x21219d321db87a78!2sLIC%20Colony%2C%20100%2F101%2C%20Shankar%20Mutt%20Rd%2C%20near%20Shankar%20Mutt%2C%20West%20of%20Chord%20Road%2C%20Basaveshwar%20Nagar%2C%20Bengaluru%2C%20Karnataka%20560079!3m2!1d12.9979781!2d77.5404612!5e0!3m2!1sen!2sin!4v1704715051175!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124408.88578133864!2d77.45509714380816!3d12.986066625210126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae3df6c2676151%3A0xb30f0629d56a4f48!2s52%2F10%2C%2080%20Feet%20Ring%20Rd%2C%20A%20D%20Halli%2C%202nd%20Stage%2C%20KHB%20Colony%2C%20Basaveshwar%20Nagar%2C%20Bengaluru%2C%20Karnataka%20560079!3m2!1d12.9860796!2d77.537499!5e0!3m2!1sen!2sin!4v1704537620838!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124405.42212306496!2d77.45634594393438!3d12.992981918781108!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae3d5c1a8547c1%3A0x8314f8c8a886ac63!2s335%2C%20Siddhaiah%20Puranik%20Rd%2C%203rd%20Stage%204th%20Block%2C%20Shakthi%20Ganapathi%20Nagar%2C%20Basaveshwar%20Nagar%2C%20Bengaluru%2C%20Karnataka%20560079!3m2!1d12.9929949!2d77.5387478!5e0!3m2!1sen!2sin!4v1704537785470!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124415.0944678494!2d77.52565874358194!3d12.973661736744608!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae1728af21782b%3A0x54303282d14f8e3f!2s%23%2033%2C%20Brigade%20Cross%20Rd%2C%20Shanthala%20Nagar%2C%20Ashok%20Nagar%2C%20Bengaluru%2C%20Karnataka%20560001!3m2!1d12.9736747!2d77.6080606!5e0!3m2!1sen!2sin!4v1704536921095!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124418.91710679136!2d77.52742964344263!3d12.966018343852905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae142ac1c81093%3A0xa2fc9609c496d0c4!2sCabin%20No%20%3A%20368%20No%3A62%2C%20Richmond%20Road%2C%20Mother%20Teresa%20Rd%2C%20Entry%20from%2C%20behind%20Sacred%20Heart%20School%20Sacred%20Heart%20Church%2C%20Richmond%20Town%2C%20Bengaluru%2C%20Karnataka%20560025!3m2!1d12.9660313!2d77.6098315!5e0!3m2!1sen!2sin!4v1704537055196!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124416.10923289046!2d77.54492524354494!3d12.971633138631098!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae169eff52a049%3A0x744038ac03a9732a!2s18-17%2C%20Cambridge%20Rd%2C%20Halasuru%2C%20Cambridge%20Layout%2C%20Bengaluru%2C%20Karnataka%20560008!3m2!1d12.9716461!2d77.6273271!5e0!3m2!1sen!2sin!4v1704717116921!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124419.19243893013!2d77.5175179434326!3d12.965467644365082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae15d65b1aaaf1%3A0x17df365db6e4c95d!2s5%2C%20Richmond%20Rd%2C%20Shanthala%20Nagar%2C%20Ashok%20Nagar%2C%20Bengaluru%2C%20Karnataka%20560025!3m2!1d12.9654806!2d77.5999198!5e0!3m2!1sen!2sin!4v1704717321757!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124407.75246456702!2d77.49002384384947!3d12.988329723106084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae17ddf4a463e3%3A0x415a988bfb0b66c8!2s1%2C%20Old%2C%2028%2C%20Platform%20Rd%2C%20near%20Mantri%20Square%20Mall%2C%20Seshadripuram%2C%20Bengaluru%2C%20Karnataka%20560020!3m2!1d12.988342699999999!2d77.5724257!5e0!3m2!1sen!2sin!4v1704532242411!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124415.36055486904!2d77.49014794357223!3d12.973129837239243!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae1605f441fff1%3A0x7c5e096d6bc134ec!2sTulusi%20Thotta%2C%2012%2C%20Park%20Rd%2C%20Balepete%2C%20Chickpet%2C%20Bengaluru%2C%20Karnataka%20560053!3m2!1d12.9731428!2d77.57254979999999!5e0!3m2!1sen!2sin!4v1704708519586!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124414.71365310904!2d77.4837438435958!3d12.974422936036747!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae160795555555%3A0x4156e8fb18840122!2sSHOP%20NO.105%2C%201ST%20FLOOR%2C%20SANKALP%20BUSINESS%20BAY%2C%208%2C%20Magadi%20Main%20Rd%2C%20Bengaluru%2C%20Karnataka%20560023!3m2!1d12.9744359!2d77.56614569999999!5e0!3m2!1sen!2sin!4v1704532605363!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124413.0793824236!2d77.54596234365535!3d12.977689132999533!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae173f1245c14d%3A0xd8b65a417b6eee68!2s117%2C%20Old%20Madras%20Rd%2C%20opp.%20venkateshwara%20temple%2C%20Halasuru%2C%20Lingayana%20Palya%2C%20Bengaluru%2C%20Karnataka%20560008!3m2!1d12.9777021!2d77.6283642!5e0!3m2!1sen!2sin!4v1704532967782!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124412.49916963726!2d77.5444961436765!3d12.978848531921454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae1699c6f0207b%3A0x677faaa4f70f7521!2sXJHG%2BGQR%2C%20Yellamen%202nd%20Cross%20Rd%2C%20Halasuru%2C%20Dodakattappa%2C%20Bengaluru%2C%20Karnataka%20560008!3m2!1d12.978861499999999!2d77.626898!5e0!3m2!1sen!2sin!4v1704533117566!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124415.12528426679!2d77.54424644358082!3d12.973600136801888!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae169ef9798e83%3A0x1ecdae0e99c19213!2sXJFG%2BCMR%2C%20Cambridge%20Rd%2C%20Halasuru%2C%20Udani%20Layout%2C%20Bengaluru%2C%20Karnataka%20560008!3m2!1d12.9736131!2d77.6266483!5e0!3m2!1sen!2sin!4v1704717550021!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124412.37640461516!2d77.53297924368096!3d12.979093831693364!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae168589488ca9%3A0x5693d417082d5081!2sQ%20Medical%20Center(Speciality%20Hospital%2C%2043%2C%20Dickenson%20Rd%2C%20next%20to%20Hasanath%20College%2C%20Halasuru%2C%20Hanumanthappa%20Layout%2C%20Sivanchetti%20Gardens%2C%20Bengaluru%2C%20Karnataka%20560042!3m2!1d12.9791068!2d77.6153811!5e0!3m2!1sen!2sin!4v1704717714769!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.975717959616!2d77.63837457793059!3d12.909282154913098!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae15716c8d790b%3A0x6e07e16b6fd25e7a!2sPristyn%20Care!5e0!3m2!1sen!2sin!4v1703617570743!5m2!1sen!2sin" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124447.81668576722!2d77.56111154238954!3d12.908089497756219!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae149a163c761f%3A0x383a13f2dabe4eca!2sBasant%20Health%20Centre%20Building%2C%201%2C%2024th%20Cross%20Rd%2C%20Sector%203%2C%20HSR%20Layout%2C%20Bengaluru%2C%20Karnataka%20560102!3m2!1d12.908102399999999!2d77.6435134!5e0!3m2!1sen!2sin!4v1704713801669!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124442.32548578887!2d77.55572124258961!3d12.91911618749171!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae148e5f3b044d%3A0xb90b6d27a71aa08e!2s20%20%26%2021%2C%2014th%20Main%20Rd%2C%20opposite%20Agara%20Lake%2C%20Sector%205%2C%201st%20Sector%2C%20HSR%20Layout%2C%20Bengaluru%2C%20Karnataka%20560102!3m2!1d12.9191291!2d77.6381231!5e0!3m2!1sen!2sin!4v1704714012375!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124444.64947623035!2d77.56677554250493!3d12.91445059183458!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae14834b6cd4db%3A0x8ec250bdc32c3432!2s2361%2C%2024th%20Main%20Rd%2C%201st%20Sector%2C%20HSR%20Layout%2C%20Bengaluru%2C%20Karnataka%20560102!3m2!1d12.9144635!2d77.6491774!5e0!3m2!1sen!2sin!4v1704714102582!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3887.8539450773183!2d77.63654199999999!3d12.981192!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTLCsDU4JzUyLjMiTiA3N8KwMzgnMTEuNiJF!5e0!3m2!1sen!2sin!4v1704531581374!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124412.88756853236!2d77.55486194366235!3d12.978072432643113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae174eab86d16b%3A0x63ed8a72286dd735!2s548%2F1%2C%20Chinmaya%20Mission%20Hospital%20Rd%2C%20Stage%201%2C%20Indiranagar%2C%20Bengaluru%2C%20Karnataka%20560038!3m2!1d12.9780854!2d77.6372638!5e0!3m2!1sen!2sin!4v1704708323793!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124412.69409759002!2d77.5552228436694!3d12.978459032283629!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae16a48c35b25b%3A0xd0a5ebead13557dd!2sNo-324%2C%20Chinmaya%20Mission%20Hospital%20Rd%2C%20Indira%20Nagar%201st%20Stage%2C%20Stage%201%2C%20Indiranagar%2C%20Bengaluru%2C%20Karnataka%20560038!3m2!1d12.978472!2d77.6376247!5e0!3m2!1sen!2sin!4v1704708831406!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d85261.10125711291!2d77.51037224638452!3d13.008512970864443!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae16a94854d253%3A0x5e318474b0a05d3a!2sThe%20Life%20Plus%20Multispecialty%20Hospital!5e0!3m2!1sen!2sin!4v1703618695790!5m2!1sen!2sin" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d31106.19279518178!2d77.54375836117873!3d12.954304490987228!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m3!3m2!1d12.981279599999999!2d77.5514676!4m5!1s0x3bae159c419aaa27%3A0x3ec7dc4bd88c4013!2snethradhama%20eye%20hospital%20jayanagar!3m2!1d12.925271299999999!2d77.57737569999999!5e0!3m2!1sen!2sin!4v1704532451420!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124423.07860996165!2d77.49404554329098!3d12.957692351597055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae15e5a85f8381%3A0xf4cd19ff95fa77a9!2sDispensary%20Rd%2C%202nd%20Phase%2C%20Kalasipalya%2C%20Bengaluru%2C%20Karnataka%20560002!3m2!1d12.957705299999999!2d77.57644739999999!5e0!3m2!1sen!2sin!4v1704535849725!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124421.20840783046!2d77.49160744335914!3d12.961434748116053!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae15e34e311e51%3A0x3801142368cdfdb!2sVictoria%20Hospital%20Compound%2C%20Sultan%20Rd%2C%20Kalasipalya%2C%20Bengaluru%2C%20Karnataka%20560002!3m2!1d12.961447699999999!2d77.5740093!5e0!3m2!1sen!2sin!4v1704535971991!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3889.07173677347!2d77.55804117484016!3d12.903108687405991!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3fdf35b09e81%3A0x4e182bf8a084d698!2sVasavi%20Hospital!5e0!3m2!1sen!2sin!4v1703618154999!5m2!1sen!2sin" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124450.30198824535!2d77.47821424229896!3d12.903095802405371!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae3fdf35b09e81%3A0x4e182bf8a084d698!2sBus%20Stop%2C%2015%2C%2070th%20Cross%20Road%2C%20opp.%20to%2015E%2C%20Kumaraswamy%20Layout%20II%20Stage%2C%201st%20Stage%2C%20Kumaraswamy%20Layout%2C%20Bengaluru%2C%20Karnataka%20560078!3m2!1d12.903108699999999!2d77.56061609999999!5e0!3m2!1sen!2sin!4v1704715999634!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124447.80628211024!2d77.48258274238992!3d12.908110397736761!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae157cd3aabb31%3A0xd9e9f4bad8d0d688!2sShavige%20Malleshwara%20Hills%2C%20DSI%2C%20Banashankari%2C%20behind%20DSI%20campus%2C%20Kumaraswamy%20Layout%2C%20Bengaluru%2C%20Karnataka%20560078!3m2!1d12.9081233!2d77.5649846!5e0!3m2!1sen!2sin!4v1704716140897!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124451.35520802117!2d77.47742574226058!3d12.90097900437624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae3fdd39e9f9bf%3A0xa2c38ba650e47f38!2s2572%2C%2018th%20Main%20Rd%2C%20Kumaraswamy%20Layout%20II%20Stage%2C%20Stage%202%2C%20Kumaraswamy%20Layout%2C%20Bengaluru%2C%20Karnataka%20560078!3m2!1d12.9009919!2d77.55982759999999!5e0!3m2!1sen!2sin!4v1704716270914!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15555.974982446678!2d77.5649846!3d12.9081233!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae157cd3aabb31%3A0xd9e9f4bad8d0d688!2sSagar%20Hospitals%20Kumaraswamy%20Layout!5e0!3m2!1sen!2sin!4v1704531053619!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124416.37878021004!2d77.50411264353512!3d12.971094239132254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae1674c70b40ff%3A0xad28006263ea7a6f!2s%235%2C%20Nrupathunga%20Rd%2C%20RBI%20Colony%2C%20Sampangi%20Rama%20Nagara%2C%20Bengaluru%2C%20Karnataka%20560001!3m2!1d12.971107199999999!2d77.58651449999999!5e0!3m2!1sen!2sin!4v1704536237244!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124408.0240556158!2d77.49018794383957!3d12.987787423610259!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae16180c7ed777%3A0xc0c1f57b18f2f64b!2sXHQF%2B42G%2C%20Platform%20Rd%2C%20VV%20Giri%20Colony%2C%20Seshadripuram%2C%20Bengaluru%2C%20Karnataka%20560020!3m2!1d12.9877995!2d77.5725492!5e0!3m2!1sen!2sin!4v1704536364187!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124401.38258254278!2d77.48164594408158!3d13.001042411288378!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae16286820bd85%3A0xbf4a8d7ac4190b7e!2sNo.%2071%2C%2011th%20Main%20Rd%2C%20Opp%20Railway%20Station%2C%20Malleshwara%2C%20Bengaluru%2C%20Karnataka%20560003!3m2!1d13.0010554!2d77.5640478!5e0!3m2!1sen!2sin!4v1704537957338!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124399.01885774966!2d77.4869363441677!3d13.005756706906622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae16258bb48a67%3A0x77ee2da385012c36!2sTelephone%20Exchange%2C%2015th%20Cross%2C%2095%2C%20Margosa%20Rd%2C%20opp.%20Malleshwaram%2C%20Malleshwara%2C%20Bengaluru%2C%20Karnataka%20560055!3m2!1d13.0057697!2d77.56933819999999!5e0!3m2!1sen!2sin!4v1704538090417!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d124397.64261438629!2d77.51037212767852!3d13.008500761542678!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb977d15555579%3A0xa39fa88c0ce849ec!2sHomeopathy%20Clinic%20-%20Malleshwaram%20%7C%20Homeocare%20International%20Malleshwaram!5e0!3m2!1sen!2sin!4v1703618887670!5m2!1sen!2sin" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d124397.65565132107!2d77.51037187496681!3d13.008474770217806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae15237055f411%3A0x7308c26631aa9e25!2sFortis%20Hospital%2C%20Bannerghatta%20Road!5e0!3m2!1sen!2sin!4v1703619051612!5m2!1sen!2sin" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31101.001137664938!2d77.57018657431641!3d12.995811100000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3cd14f0bd06b%3A0xf76668bdce2425d9!2sSantosh%20Hospital%20-%20Best%20Multispeciality%20Hospital%20in%20Bangalore!5e0!3m2!1sen!2sin!4v1703618044641!5m2!1sen!2sin" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124404.01105695522!2d77.5258935439858!3d12.995798116163156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae3cd14f0bd06b%3A0xf76668bdce2425d9!2s6%2F1%2C%20Promenade%20Rd%2C%20behind%20Coles%20Park%2C%20Pulkeshi%20Nagar%2C%20Pulikeshi%20Nagar%2C%20Bengaluru%2C%20Karnataka%20560005!3m2!1d12.9958111!2d77.6082954!5e0!3m2!1sen!2sin!4v1704715284061!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124401.89745325461!2d77.53225704406282!3d13.000015312243072!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae16f0dca866bb%3A0x19604cb9af4c1262!2sNo.1%2C%20Moore%20Market%20Square%2C%20Bourdillon%20Road%2C%20Pulikeshi%20Nagar%2C%20Bengaluru%2C%20Karnataka%20560005!3m2!1d13.000028299999999!2d77.6146589!5e0!3m2!1sen!2sin!4v1704715407587!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124401.63277931107!2d77.53567874407246!3d13.000543311752285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae16ee3feae76f%3A0x9e62ada4e440ecde!2s158%2C%20MM%20Road%2C%20Pulikeshi%20Nagar%2C%20Bengaluru%2C%20Karnataka%20560005!3m2!1d13.0005563!2d77.6180806!5e0!3m2!1sen!2sin!4v1704715567989!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124404.11162828504!2d77.52896834398214!3d12.995597416349726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae16f42582e79d%3A0xe4eb32ecb1f91d6e!2s8%2C%20Spencer%20Rd%2C%20Cleveland%20Town%2C%20Pulikeshi%20Nagar%2C%20Bengaluru%2C%20Karnataka%20560005!3m2!1d12.995610399999999!2d77.6113702!5e0!3m2!1sen!2sin!4v1704715706747!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124403.30460933827!2d77.53219924401155!3d12.997207814852745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae17bb1194a6c5%3A0x2916f52fcb00d462!2sN0%2C%2092%2C%20Mosque%20Rd%2C%20Pulikeshi%20Nagar%2C%20Bengaluru%2C%20Karnataka%20560005!3m2!1d12.9972208!2d77.6146011!5e0!3m2!1sen!2sin!4v1704715851297!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124414.05317863474!2d77.47151584361985!3d12.975743034809177!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae3df9ebc11b09%3A0xa82d223b7209b8da!2s1st%20Block%2C%207%2C%20Magadi%20Main%20Rd%2C%206th%20Block%2C%20Rajajinagar%2C%20Bengaluru%2C%20Karnataka%20560023!3m2!1d12.975755999999999!2d77.5539177!5e0!3m2!1sen!2sin!4v1704531963937!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124410.85268742518!2d77.4669989437365!3d12.982138028862803!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae3dede177ab89%3A0x1d92aaa66452a52!2s1031%2C%2020th%20Main%20Rd%2C%205th%20Block%2C%20Jedara%20Halli%2C%20Rajajinagar%2C%20Bengaluru%2C%20Karnataka%20560010!3m2!1d12.982151!2d77.5494008!5e0!3m2!1sen!2sin!4v1704532082801!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.0521826582167!2d77.57439807484242!3d13.032348987288657!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae17c244546a23%3A0xfd89542281b41253!2sRajmahal%20Vilas%20hospital!5e0!3m2!1sen!2sin!4v1703618538351!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124422.38144403556!2d77.51908374331637!3d12.959087550299284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae15ce3fffffff%3A0x3276527ee89fde73!2sXJ52%2BJHX%2C%20Shanti%20Nagar%2C%20Bengaluru%2C%20Karnataka%20560027!3m2!1d12.9591005!2d77.60148559999999!5e0!3m2!1sen!2sin!4v1704536505356!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124423.46963418105!2d77.52233444327673!3d12.956909752325027!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae15d2898fae35%3A0x3412dc4737203e64!2s15%2C%20Eagles%20Street%2C%20Langford%20Town%2C%20Shanti%20Nagar%2C%20Bengaluru%2C%20Karnataka%20560025!3m2!1d12.9569227!2d77.6047363!5e0!3m2!1sen!2sin!4v1704538782757!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124406.40631427677!2d77.4953735438985!3d12.991017320607481!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae1624c48dba95%3A0x1870d4d4a022f440!2s4%2C%204th%20Cross%20Rd%2C%20near%20Subramanya%20Temple%2C%204th%20Block%2C%20Kumara%20Park%20West%2C%20Seshadripuram%2C%20Bengaluru%2C%20Karnataka%20560020!3m2!1d12.9910303!2d77.5777754!5e0!3m2!1sen!2sin!4v1704537180539!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124405.44897660354!2d77.4938575439334!3d12.992928318830936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae17d5adf25295%3A0x32dd5319fec62233!2sA%2C%20Unit%20of%20Lalitha%20Healthcare%20Pvt.%20Ltd%2C%2065%2C%201st%20Main%20Rd%2C%204th%20Block%2C%20Seshadripuram%2C%20Bengaluru%2C%20Karnataka%20560020!3m2!1d12.9929413!2d77.5762594!5e0!3m2!1sen!2sin!4v1704537527855!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3887.742447993053!2d77.59441509999999!3d12.988318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTLCsDU5JzE3LjkiTiA3N8KwMzUnMzkuOSJF!5e0!3m2!1sen!2sin!4v1704531362412!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3887.498696114394!2d77.6039555!3d13.003883300000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTPCsDAwJzE0LjAiTiA3N8KwMzYnMTQuMiJF!5e0!3m2!1sen!2sin!4v1704707962890!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124408.37976643897!2d77.52694454382662!3d12.987077124270636!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae166038681c71%3A0xff6f37142bc5203b!2s17%2F1%2C%20AM%20Road%2C%20Bharati%20Nagar%2C%20Shivaji%20Nagar%2C%20Bengaluru%2C%20Karnataka%20560051!3m2!1d12.9870901!2d77.60934639999999!5e0!3m2!1sen!2sin!4v1704709018622!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124406.95270117874!2d77.51206654387862!3d12.989926521621559!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae1669d7f66469%3A0x47c77628f27eced3!2sNo.3%2C%20Millers%20Tank%20Bund%20Road%2C%20Off%20Cunningham%20Rd%2C%20Opposite%20Fortune%20Hotel%2C%20Vasanth%20Nagar%2C%20Bengaluru%2C%20Karnataka%20560052!3m2!1d12.9899395!2d77.5944684!5e0!3m2!1sen!2sin!4v1704533366079!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124406.15108785688!2d77.51303564390781!3d12.991526820133828!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae1642c63e2c23%3A0x730cce157da6d9cb!2s17%2C%20Millers%20Rd%2C%20Kaverappa%20Layout%2C%20Vasanth%20Nagar%2C%20Bengaluru%2C%20Karnataka%20560052!3m2!1d12.9915398!2d77.5954375!5e0!3m2!1sen!2sin!4v1704533485357!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124416.11053338641!2d77.4547786435449!3d12.97163053863351!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae3dddbee5a0f1%3A0x5e510a15a6f0a8f0!2sMetro%20Station%2C%20%23%2046%2C%2017th%20Cross%2C%20MC%20road%2C%20near%20Vijayanagar%2C%20Vijayanagar%2C%20Bengaluru%2C%20Karnataka%20560040!3m2!1d12.971643499999999!2d77.53718049999999!5e0!3m2!1sen!2sin!4v1704538572863!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124418.07809034653!2d77.45891114347319!3d12.967696342292294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae3de0f8f9ff7d%3A0xa1cfcf4d408779e7!2s27-A%2C%202374%2F26%2CPlatinum%20Plaza%2C%20Club%20Road%2C%20Vijayanagar%2CBangalore%2C%2027-A%2C%208th%20Cross%20Rd%2C%20Hoshalli%20Extension%2C%20Hoshalli%20Stage%201%2C%20Vijayanagar%2C%20Bengaluru%2C%20Karnataka%20560040!3m2!1d12.9677093!2d77.541313!5e0!3m2!1sen!2sin!4v1704717872913!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124414.74487153885!2d77.46027494359468!3d12.97436053609478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae3de64253bf39%3A0xdffe0cb91ae6f4e2!2sMagadi%2C%2091%2C%20Chord%20Rd%2C%20Vijayanagar%2C%20Bengaluru%2C%20Karnataka%20560040!3m2!1d12.974373499999999!2d77.5426768!5e0!3m2!1sen!2sin!4v1704538683469!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124416.48096422719!2d77.4626391435314!3d12.970889939322248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae3de4015b9041%3A0x9bb0d6c8eed8a6b7!2s%23318%2C%206th%20Main%2C%202nd%20Cross%20Rd%2C%20Vijayanagar%2C%20Bengaluru%2C%20Karnataka%20560040!3m2!1d12.970902899999999!2d77.545041!5e0!3m2!1sen!2sin!4v1704718027668!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31112.57399602411!2d77.54001644590112!3d12.903107868775693!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae155c220664bf%3A0x70311dddd9cce871!2sSri%20Sai%20Ram%20Hospital!5e0!3m2!1sen!2sin!4v1703618345471!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124452.48088265935!2d77.48674674221954!3d12.898716206483115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae1567678aaca3%3A0xf2bddf61d5a2a12d!2s100%2C%20Ashrama%20Rd%2C%20opposite%20canara%20bank%20atm%2C%20yelchenahalli%2C%20near%20venkateshwar%20temple%2C%20Bengaluru%2C%20Karnataka%20560078!3m2!1d12.898729099999999!2d77.56914859999999!5e0!3m2!1sen!2sin!4v1704716534922!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124457.67051205554!2d77.47885914203047!3d12.88827911620208!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae15bc24cee65d%3A0xfe823500385aa3d4!2s18%2C%20Kanakapura%20Rd%2C%20Venkatareddy%20Layout%2C%20Industrial%20Area%2C%20Doddakallasandra%2C%20Uttarahalli%20Hobli%2C%20Bengaluru%2C%20Karnataka%20560062!3m2!1d12.888292!2d77.561261!5e0!3m2!1sen!2sin!4v1704716783977!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124446.36419496994!2d77.49730814244244!3d12.911007095040102!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae15721a6af1bf%3A0x6306a6631159d5e6!2s21%2C%209th%20Cross%20Rd%2C%20opposite%20to%20Rajshekhar%20Hospital%2C%20Sarakki%20Industrial%20Layout%2C%20Phase%201%2C%201st%20Phase%2C%20J.%20P.%20Nagar%2C%20Bengaluru%2C%20Karnataka%20560078!3m2!1d12.911019999999999!2d77.57970999999999!5e0!3m2!1sen!2sin!4v1704716947822!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d819.2162867100097!2d77.54238037635947!3d13.027171383747168!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3d6b8e17c907%3A0x5c6d10b34999d043!2sSPARSH%20Hospital%20Yeshwanthpur!5e0!3m2!1sen!2sin!4v1703617448337!5m2!1sen!2sin" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d819.2162867100097!2d77.54238037635947!3d13.027171383747168!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3d6b8e17c907%3A0x5c6d10b34999d043!2sSPARSH%20Hospital%20Yeshwanthpur!5e0!3m2!1sen!2sin!4v1703617448337!5m2!1sen!2sin" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+        <item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124387.4619941368!2d77.45706324458887!3d13.028781985510564!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae3d6b320b9f7b%3A0x5bd2ca61e09a2786!2sMETRO%20Station%2C%202%2C%20Tumkur%20Rd%2C%20next%20to%20Goraguntepalya%2C%20Goraguntepalya%2C%20Yeswanthpur%2C%20Bengaluru%2C%20Karnataka%20560022!3m2!1d13.028794999999999!2d77.5394651!5e0!3m2!1sen!2sin!4v1704714303780!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+		<item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124375.56387394558!2d77.5296779450224!3d13.05244546353024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae17387b3f7649%3A0x430fa08143fba6f!2s371%20Dasarahalli%20Yelahanka%20Main%20Road%20H%20A%20Farm%20Post%2C%20Behind%20Manyata%20Tech%20Park%20Bangalore-24%2C%2052%2C%20Kaveri%20Layout%2C%20Mariyannapalya%2C%20Dasarahalli%2C%20Bengaluru%2C%20Karnataka%20560024!3m2!1d13.0524585!2d77.61207979999999!5e0!3m2!1sen!2sin!4v1704986177903!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+<item><iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3886.700262073735!2d77.5929647!3d13.0547413!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTPCsDAzJzE3LjEiTiA3N8KwMzUnMzQuNyJF!5e0!3m2!1sen!2sin!4v1704986309471!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+<item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124314.57241831221!2d77.4816627472449!3d13.17309195160376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae1f61bb49e8ab%3A0x5c53c68d7b02536c!2s5HF7%2B6JW%2C%20Rajanukunte%2C%20Karnataka%20560064!3m2!1d13.173105099999999!2d77.5640646!5e0!3m2!1sen!2sin!4v1704986598053!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+<item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124315.80200029282!2d77.4819498472001!3d13.170670453847947!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae1fc5ecd3e74f%3A0x873cd59820fc5757!2s5HC7%2B7PH%2C%20Doddaballapur%20Main%20Rd%2C%20Suryodaya%20Layout%2C%20Bengaluru%2C%20Rajanukunte%2C%20Karnataka%20560064!3m2!1d13.1706836!2d77.5643517!5e0!3m2!1sen!2sin!4v1704986775470!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+<item><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124315.39184272222!2d77.47613984721505!3d13.171478253099288!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae219a8fd54053%3A0x3bbf49c083351455!2sRajanukunte%2C%20Karnataka%20560064!3m2!1d13.171491399999999!2d77.55854169999999!5e0!3m2!1sen!2sin!4v1704986906844!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></item>
+    </string-array>
+
+    <string-array name="phone">
+        <item>080 2661 3888</item>
+        <item>072590 39815</item>
+        <item>080 4901 1200</item>
+        <item>6895241385</item>
+        <item>074117 45050</item>
+        <item>080 4901 1300</item>
+        <item>099000 61061</item>
+        <item>099000 03527</item>
+        <item>090000 49090</item>
+        <item>088844 81414</item>
+        <item>080 4901 1400</item>
+        <item>080 4669 4333</item>
+        <item>080 4668 8888</item>
+        <item>080 4122 1024</item>
+        <item>080 2234 1736</item>
+        <item>082774 80000</item>
+        <item>080 2297 5876</item>
+        <item>080 2297 5876</item>
+        <item>095919 30365</item>
+        <item>7859643215</item>
+        <item>080675 06912</item>
+        <item>080679 27777</item>
+        <item>080505 98999</item>
+        <item>080 4901 1500</item>
+        <item>088846 27777</item>
+        <item>080672 38833</item>
+        <item>9865285954</item>
+        <item>080 2234 1736</item>
+        <item>080 4394 3355</item>
+        <item>098869 31261</item>
+        <item>8695241368</item>
+        <item>08071 500 500</item>
+        <item>080 6955 5555</item>
+        <item>080504 74433</item>
+        <item>8069555555</item>
+        <item>080 4012 8250</item>
+        <item>080 4116 2611</item>
+        <item>1800 102 4647</item>
+        <item>080 2334 7276</item>
+        <item>7586958542</item>
+        <item>9846256122</item>
+        <item>9948523645</item>
+        <item>080 4084 8888</item>
+        <item>080 4240 4122</item>
+        <item>080 4700 4700</item>
+        <item>080 2536 0190</item>
+        <item>080 4163 3244</item>
+        <item>080 4162 2197</item>
+        <item>080 2350 5566</item>
+        <item>9856423589</item>
+        <item>918000000000</item>
+        <item>080 2224 0736</item>
+        <item>080 2346 1981</item>
+        <item>095350 58080</item>
+        <item>080 4901 1800</item>
+        <item>8867897619</item>
+        <item>080 4901 1800</item>
+        <item>080 2235 1748</item>
+        <item>080 4087 5500</item>
+        <item>080 2335 8111</item>
+        <item>080 2335 1777</item>
+        <item>080 2335 2085</item>
+        <item>080 2310 4640</item>
+        <item>9856663215</item>
+        <item>098440 21823</item>
+        <item>087480 30303</item>
+        <item>080 4252 7555</item>
+        <item>8564235189</item>
+        <item>1800 102 4647</item>
+        <item>080 4959 9999</item>
+		<item>063999 55588</item>
+<item>9980141749</item>
+<item>095915 56066</item>
+<item>9738710540</item>
+<item>078478 03456</item>
+    </string-array>
+
+    <string-array name="img1">
+        <item>https://lh3.googleusercontent.com/p/AF1QipPZuE45iCWWPBfsNMFsFFWxpRk_LcDfP8kuu8ZE=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPmM2Pd1tkAUXx26j2XarhmI7iS_Q-Bp26k0h21=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPzEEoP3d9ML7DKVh08UhD_dkFY6jh47ClhEFHi=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNhHI8K3yjr5Pm5FVnPYeahwlJUCe-H_2n5iONs=w768-h768-n-o-v1</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNcVGgjnFzzfnfhVMZ8Ds-R59y2nsuC-VHeDjXB=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPADFR6epdEVAgakONGdvsLlmGRWEOf6-glE3KH=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMj0YOq9OEbbq6c7satLDXzqzuxv5unEczyCw92=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMmSm7DMzinBBqB3v3kPbYRKksjgKzIkRuptqpP=s680-w680-h510</item>
+        <item>https://lh5.googleusercontent.com/p/AF1QipO1huYMVmvHo4u8xwKbH_oMvwx1WhQtQzCMC-L0=w260-h175-n-k-no</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOS62mWvTJqF05Se8TM1iTyUP_hD9_zP-8-ZsXa=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOMs4cnSkXS_G9lSe5rrb7ZwBpyvVvKUY7aEb2Q=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPawAQ68c6A2mUElGbFmtsLpZt3PMkdO1FXpnKN=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipM9dpUbYGhd2C0gN8NG2lRaTrz2EfxbM_L5MUuD=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOu1HRXQSZR-J1wEouB7oo6DPIMNeM_lLr6pOIp=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPkeAjStfMxfo9RHEZQAVF6F1MHOcqkkK9FCQo=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipP1oNyVwvdmRwQ_qvT4Irds5ZLqzezlA6IUSVi0=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPV6YQ6H8c5vad-zvh89rMF_TWIcEMjs3z8IsK_=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOTBDFD-47mwNYpdqh2vMBpTKsIWBtDm1xTPTVW=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOWbFK7MD5hC9dEKCas_5-s_quoSoEvXNmq2ir5=s680-w680-h510</item>
+        <item>https://img.pristyncare.com/static_pages%2FcompanyClinic%2FMask%20Group%2024.png</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPBlRgWu19CH5H7tUQld_nYj8t3jkrwsFFSX-3m=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNGjN-T2Ku--C_51r2XYTb7kvPoSgtjlreHtNWW=s680-w680-h510</item>
+        <item>https://lh5.googleusercontent.com/p/AF1QipP5vPnbD4oUE7iSeaZOTQw5jazUGve5aVXCSPJb=w260-h175-n-k-no</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOcI_AtyO2rT-snExiuB00UIXpWbTS_j9Rfcnh_=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMbWD8teHQUrySAjG4klPIVcIQZukzmuZ14K74i=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipN-7KRqvSz2BqYHs5oWfXgcoQvmgVT_ubnp9uP6=s680-w680-h510</item>
+        <item>https://images1-fabric.practo.com/practices/1147654/life-plus-hospital-bangalore-644b819657adf.png/large</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOEjre72MfhibrO4jNgEzwVRmVbHacpmJoVSZ3Z=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMtKtNoNUKVihcFSCoQuZ95fz9_Bw9YtY3XjTug=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMOaVZQ7m9aOpLWnHzMsiOtn_c-ctobNfkc065T=s680-w680-h510</item>
+        <item>https://assets.bajajfinservhealth.in/media/doctorprofilepic/1646627661713_HospitalFacilityImages_887d5d6e-ccc8-4a69-9633-1b58910f9530-w412-h412.webp</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOACE82HaTGQKYXhBVVvZ2J09FEZlLJ-xJ5OQTh=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOENHQNo6puYKejD2bpDPS54NupY_tdTE_9cQFV=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipM_UkXEP1nzQ4qJnwJ7nsBc1MX1UR19vxMV3lZE=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOENHQNo6puYKejD2bpDPS54NupY_tdTE_9cQFV=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMyn8O5b2JbBvlAV_0F-yUJ6ftTzWbrFl6wVfPR=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipP699ByZrOopBxjyruar2MwCAB1TngqojuFg4nW=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPkCK04iBS7DDVqPDzvixYcIr3zFrQFqJCrvALN=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOFPPKA2yzlQEXc_PGFY0Hdv338pFlCtUiiICFb=s680-w680-h510</item>
+        <item>https://content3.jdmagicbox.com/comp/bangalore/h6/080pxx80.xx80.171206062820.j3h6/catalogue/homeocare-international-pvt-ltd-hsr-layout-sector-1-bangalore-dermatologists-5zytv.jpg</item>
+        <item>https://assets.thehansindia.com/hansindia-bucket/9447_Fortis%20Hospitals.jpg</item>
+        <item>https://content.jdmagicbox.com/comp/bangalore/i8/080pxx80.xx80.170316115247.z1i8/catalogue/dr-rajendra-k-v-santosh-hospital--frazer-town-bangalore-orthopaedic-doctors-euavn.jpg</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOPNndnuyHvUY09gU0d0WxkP2CUjjC6r6RbX91d=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNRw_aerx3kCiKDy63PH7KLLXC22MaFlhClgRJP=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipO5gUaaoUNAobqjOUswChxctVWBuOz5KSQgPjLh=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNPFA4fUkPm1lv-Q5lNrR3w-qLD7G9LqJKhzEkG=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPlfTd1sX1Ot06igwB7f8JpG15StkM3m9ywdaw-=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPPhNSRG0NI6i192xE8gB1Vw_UuxJI4gfk3dt8d=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMmefz_1KL6qJUy2vvopTMMlSF57wrlA0_p30Bo=s680-w680-h510</item>
+        <item>https://images1-fabric.practo.com/54fec2f110f76542d5d8e1bd7986d98c61abab9dc42a9.jpg</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPaHJh15LGzVVNn4fWjycosESRmC9RncbX0Mn5f=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNOwuitfQnSMZ-gv49uSQZZLvRWH2eWoLkPF6gE=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipP64wZEw-vykoZ-H32XFuHpJwzZmVKmPuR2ezq0=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOk0inNOcrkRQuhY_xf9jLAfIB7hatldBp3TC8U=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMvD9au44Wqrh4AO2xAkax-cM8ehhBRTyk_nlI=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipP0X4mq9478Lbtx8am-y_1Rs6zFWW-HGUh46LFB=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNuXpA1BeCYZaQSNwAqVmNUxce4vCuaU_apjM6I=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNajciyDXXLQCpZogpI40QSPjcB5CV-bq0HvU7L=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipM9aRWQuh1p2rPdKt_rIWdB75hHAA2tQpxPH7qf=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOMreewwYJkb3jJCgUMrWJdVz2WpU0Wh4DcNAH5=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMUckUUnsV-XyO1QdfqT2b4rCLbLoVU4Z8RMgts=s680-w680-h510</item>
+        <item>https://lh5.googleusercontent.com/p/AF1QipMW8HyplyOZhM4o2nemP7W0sz1QrdFynOpshVo=w260-h175-n-k-no</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNG53e2rztpVKlTUtNIEy6JPvAzmhiJWjKc3bdL=s680-w680-h510</item>
+        <item>https://cdn.hexahealth.com/Image/27e8d3f4-f947-4cda-8c22-85cffc1ef95d.png</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPkZPYX4Y54s_a_Go3qFAb1D1QFWP0puu-plohD=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipN6XRFNJOXH2Bq0NzHx5T5A3KuRw1yAQkx72M_W=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/proxy/yoXtFXk0Hw_aMt8R5s0uq3czz5ISU7ltgSSkaAwm9GbRch3xGoWwC2MiKIzkkZ_TH9T3m7ZSydrcNJDOCl0a0tC5bxm-XkP80GmSMJ4blS6hGkzAIr86Dq0P9O-gaLHOmBWmnqIbNHAiacs0cx0zoM2DkAIR5DYTiHyiQg=s680-w680-h510</item>
+        <item>https://www.vaidam.com/sites/default/files/hospitals/sparsh_hospital_bangalore-min.jpg</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipO2ZhCa_fjPvRvoFIwrfneLGieNCfFaFMd-KBN9=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNshD4fQ4-gIWl_x-sBALaNzSG-t1zJkaL2AJ_O=s680-w680-h510</item>
+    <item>https://lh3.googleusercontent.com/p/AF1QipMWHn6i7lFTLwFMYLht2RC7ZLYxgNhPYnYWiWC8=s680-w680-h510</item>
+<item>https://www.asterhospitals.in/sites/default/files/styles/webp/public/2023-04/best-hospital-in-bangalore.jpg.webp?itok=O7Kg6g3h</item>
+<item>https://lh3.googleusercontent.com/p/AF1QipNchP4MUYyhNB-1QGZ4DGekHpM5oF7Ypf6-kd3e=s680-w680-h510</item>
+<item>https://lh3.googleusercontent.com/p/AF1QipN-ee7UoTFlMbEpXQ1fDlX4qj7JoFB-EeB8xZEY=s680-w680-h510</item>
+<item>https://lh3.googleusercontent.com/p/AF1QipMd4krcuDBUqPHmut3dmW5vyMuLo_FZYvhCXoi4=s680-w680-h510</item>
+	</string-array>
+
+
+    <string-array name="img2">
+        <item>https://lh3.googleusercontent.com/p/AF1QipMKzn1NUTA3Ba0Co77UnbfEoiQ0yE8AZJNPjrUt=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMjPWT4LFKwczHT89zFYlt-1MqN5Sfr93fZIWLI=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPbmbU8ySeo_N7uT7b6vufjUQzQ-sCCpXHHNw2H=s680-w680-h510</item>
+        <item>https://images1-fabric.practo.com/bangalore-nethralaya-bangalore-1476941011-580854d382d28.jpg/large</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMMpKlnA6P3JP6YHqr4h0gO9idsLEUMhDlADRFc=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPyrRg1y3Iwu2Rko_FVkUpn_Ak-yLYUWTts3DYR=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMf2xgkVm5IBBcH1L58wgiuwAePAtgJkTTs_qXl=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNLjp1LsSgXgiwJwDLXG5vPiTXS7b69C8iRz_97=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNh1-ue8AD-m1z0cvry--lsaJTcKrpSva3ewX3Z=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPQbB652S3oK8DJsXhJaDZIpIguEYYYV6RiK0vT=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOdaXtEmVb855wRqc12L5v_W5x2C7awobINJk3M=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNQdPXfSyuM0dMY7AUWadkCLWWh6e1tlIrppMEJ=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOgHlAMV4DXbdUfpQnogNGAb1RDWCBB_jq0SJQm=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPc7Yb6syyGRN-E3o16fzJaVOdBtua9nDUPUScO=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMrNIkQcoK3NXub9961wMyJfaQdL7pFF9nGcNw=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPgzJXDPftwLYMB5zKWF6rMpetkGDchVwhokvAI=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNCzfTUVTPQb9hMa9pKjnAaVqJkJI_QIcgBVmms=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPXiS_FH91UnYWiBlo9HMIGyDzCUFhbhuECmjqf=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMwE9qNo4U5V67fsmcVdd6FH7dJ1gA3870dg2QR=s680-w680-h510</item>
+        <item>https://img.pristyncare.com/clinics_images%2F(32)Pristyncare%20Clinic.webp</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNHIkNh9EgeTV5ePUN24fGDpJwoik0BiXnovNLr=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOpZYnmsQmgDJ149IUdqH0wUCGznabETCWvAFAU=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNjMRYEDHGQAFMuaK5w1ZkuHPob-noQb8wTn2aj=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPWjBEV5icNwaLe33f5VDBJRcjnHoKsPzVcXtMS=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMFEyMjkkByCRBwL5imYbcaBXbNm6_hWtjKBdbV=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMEzDRQHCs0akf3U4zkU2FzTWk_Ks2-OEQAMqU5=s680-w680-h510</item>
+        <item>https://images1-fabric.practo.com/practices/1147654/life-plus-hospital-bangalore-644b81bdec8e1.jpeg</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMlAJeYhajdLwglcL9bGS_tCNlSja7dwKRdUrQ4=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPvBaK2iKNfqTFJvYMKo-i_WxpS87hdB084-jv9=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMOXG8LNB6GowKwDWoEtIwFzGft_wU5hUIxyDdz=s680-w680-h510</item>
+        <item>https://images1-fabric.practo.com/practices/1072492/vasavi-hospital-bangalore-60312e3caa516.png/medium</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNSPSHlWJLix1BYKE1tnaXyAgpoYdIsJH-Y9ruk=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOM9m-eINx7m83h7zHrwg_rU-hMY9fFMdU7-gpW=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipM_kdkIPZ-85e220Bn-81JxtUJ7l5nTiY2BCwuS=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOM9m-eINx7m83h7zHrwg_rU-hMY9fFMdU7-gpW=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPxu9pAqJ_6UUHJCFOP_LCOIgvGWwHCNi4Y-yXc=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipM4hJQZNpbVmY1Tn6WDCzFm-2advgiEUQKH7hWk=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipN_iawbKEs6PiUAbdj05YwauJVBviSzfaqnz6sN=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOQXqrUcHBkd74Cf5eCnxAU40IlajuH-wnz0JmC=s680-w680-h510</item>
+        <item>https://images1-fabric.practo.com/practices/1160993/homeocare-international-bangalore-59ddaa4379822.png</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQadgpbjRdMGv9jiojbkAqUFMfz4DUagwn9vGLMF-GWhpgyCdeFHiSbaItJ4MJo_k5og7M</item>
+        <item>https://content.jdmagicbox.com/comp/bangalore/x2/080pxx80.xx80.181122034256.a7x2/catalogue/p-m-santosha-multispeciality-hospital-kengeri-bangalore-hospitals-brw3qhufnt.jpg?clr=</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPaRGLyi7h5rHVc9Mc_4qXLTTglVTkKQDHYCmsp=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMfLTIrVhNOjYnE0HciRdbis9Xz1U2B--e503Bh=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPj38Ejkx0FYJEIThxyqL5eI0tEaIjTFow7SgoV=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPEWX0GFh4prezSQtJFzjVEi0Bo-1l1VRdEk-tK=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNr1CJe3mvL62Jk27YtzPRBOJ6n_8RifQplNbF8=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNf-bOtUPGDv2XkwtjWUMk7cytpmbxtQJCvMBY=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOOP1x23-tQ9E9d9lWAbc2SDk6mX3QE5d0wBJpb=s680-w680-h510</item>
+        <item>https://cdn1.photostockeditor.com/t/2703/clinic-white-hospital-bed-near-white-wall-hospital-hospital-image.jpg</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPUUCpZBFZ-XbyyVmpm6uAnE6jFzAGn2SGrU3VF=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPbkHXHxl0W1cC5mIHPgvhJ6Xe3fGwODXqAp2Gq=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNIFvbV0IMYQnJkH-ypKNJjy2VtC1TZZF0I5DEs=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNL1OyP3SxBPJg7Tel92NrYiM6g7hTO7ehNuS4Y=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNY06bntwOYqeQMpCJZoz0zFht5DCdEi-Qwkw86=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMTLai77J2aTIQpcL3TQbGYNVRgr7b3WNyhksaN=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMIV0qYntO-G3dIjtt1DDr2U0lkvbeMH6DxmCiX=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPXLRdoUWRIwb-RwkyfUrZod2X8KGvr8HERfs2y=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOp8OeUa2ZlIxrFHvUDcG9XX_vyZ7kN89F3DPoV=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipN-Hcs_cTqqfHZMGyaxkPeOomeDV0_5SCWiMfh7=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNM-AQY8syyMP9-auSesNbPN8pQegyitRfk2Qho=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNu9wPRjYa6BW-sq1yH_Hy0oI6_Qpelv6EDuUbt=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMEjxPSNi0Vs3b3dTD8VsgErsKASMO06vkWX7yu=s680-w680-h510</item>
+        <item>https://images1-fabric.practo.com/sri-sai-ram-hospital-bangalore-1468481504-57873fe0ee49a.jpg</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMDK1gHSHxL3LMccWIx0bgotx7qYyesa4KUve4i=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOEEqQ7pM7zsNpkIsRKJEyjTd9WO5xLv8UeQKXG=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPbReXAJGpOuI-VcWRwOnt-tTa_GpQbMM_JagMS=s680-w680-h510</item>
+        <item>https://www.vaidam.com/sites/default/files/hospitals/dd.jpg</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipM1F3PfHtdAniz1LuMoeMUxOkcqVXhXuWtifSUW=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOPYkTJljqo68CvtzRRRD6YfzKRkbX95X-iarwb=s680-w680-h510</item>
+<item>https://lh3.googleusercontent.com/p/AF1QipMwEuACqGNJwdHlByVhffn-PyR9FUHxC5btmPyl=s680-w680-h510</item>
+<item>https://lh3.googleusercontent.com/p/AF1QipMjE5VM92ezXspwl0KEHDHNHUekDk6LIhOlRJfi=s680-w680-h510</item>
+<item>https://lh3.googleusercontent.com/p/AF1QipMs5NdmQ3CtsduS7rp7pICTr7mGr29mJjildmAw=s680-w680-h510</item>
+<item>https://lh3.googleusercontent.com/p/AF1QipOOHMF4pGm5VsPODhv1ocKFAlE1tVeIWjB4TO_2=s680-w680-h510</item>
+<item>https://lh3.googleusercontent.com/p/AF1QipPytR3SMGFKD9QqygsycUEIJGLxqKubKKmoRkgZ=s680-w680-h510</item>
+    </string-array>
+
+    <string-array name="img3">
+        <item>https://lh3.googleusercontent.com/p/AF1QipMKDYZvRoP7gKtMt1G-gh8uPjIhwEbzNxMTc_gy=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMLQKJ8crDo-GvJBZjQmUKiXa0xwdpYgauOkGhI=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOKqw-6YdChshZSE1FqqTjD0bBQKFEgVRzrReKA=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMD67Nk1EJQXkwUKNFUm5NiNj0rXlW5xtloG47c=w768-h768-n-o-v1</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNA752qu4mi91uFqssHR-FspLNhYrTc8TU3_Qgd=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPaZoD1iEKSCYCx_qP1LRZilTi2wmvgbQiHlNJU=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNTybJZWuL9_-6Fe2yn6oXAjiHyUt7QNXk5JT1S=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNZ3NT1RxmXNJsIQm2rKELYKDiVJu5KCTKR7IES=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNEZvblNZMs0fSQi335ZwSuMz5e7FOQQmP2TAvt=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMXlgat2zvI7McgigmaG2urfF3gsOLirh6xaSSD=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOdaXtEmVb855wRqc12L5v_W5x2C7awobINJk3M=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipN2v4EMxfiuPld00yk40TLKFOYLyFXUPjmGB9t1=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMZixjNVjtUVqjHCaFJTn33DNkOAsqYPfov3Dc-=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipO4R25g0y_f-AGt-LPR7GJCoTvChbRX5Ff1tFIx=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipO1MAgoUmqIsztIE-vLYDU0M34iEbgKw-rCqH0=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNw_PiFN65BFcyNcqRyQJSmO6aB1zi6WCiTgxJV=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMgaFbQGWtSsX-jgxvx_gkVnCDBw_CURNAZmMLD=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMP2jOcykp56BFfiMfjR7x-jkHDPzk2qj8O0FvT=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNG4SLRHgFZ7hqic2TFjRo1W6usC4ZZvQUJnIvx=s680-w680-h510</item>
+        <item>https://lh5.googleusercontent.com/p/AF1QipMjnv2xn9s3Jyph_zjYQ3SaezH9_yptJjDAqGWV=w500-h500-k-no</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPNGp6nCaDrKZTr80rs_VwA4qxQTHtKN5zqAGsH=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMJ9qmsAQNn4zQU5gSUmk0r2fToOB1iOFBhl0Ym=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPZD4J4XzUnL9vlC6rs7S1FNrUQKAxW3SZJiBPo=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOTdSarSgm3vFQfOIg5Ro_ZYHkyikMPRGgCwNb6=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMN3WvFynGTSPi70bKzoIfh1_U25E-7z7KTgFjh=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMimXiZEvHxzYLpbhhj6E8Okf7Ag617ydd8rlY=s680-w680-h510</item>
+        <item>https://images1-fabric.practo.com/practices/1147654/life-plus-hospital-bangalore-644b81aed268f.jpeg</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPu0PSJFgRv2u4ffGCS74kIu4fr0QmLWTiq-OaA=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMdC5G1VohXKk3Hd5vVn4KVKvUeGDwwOUYoEI0A=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOYEY7pERrZxcL-1sNWU2YcHDj7oWgn6J5wUwVg=s680-w680-h510</item>
+        <item>https://lh5.googleusercontent.com/p/AF1QipOACE82HaTGQKYXhBVVvZ2J09FEZlLJ-xJ5OQTh=w480-h300-k-n-rw</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPRq6YgMacU7QHARAdPQA8zytBKtIwE68o8sozX=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipP69-Ds6d9hKCFBxXpcrsPB0QXPGFEixnWHGrIy=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNHdU2I0_yjMHOf78PDXEtWkGAPDiYKRIFcQcRA=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipP69-Ds6d9hKCFBxXpcrsPB0QXPGFEixnWHGrIy=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOaUOAV2IjZPJ5xViE9F36Bm-zpe7JrwCohjFde=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPEHzsmHt6jjYzaMHcOPuqLrBUOQc3CKklpJpdI=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPw8F8WtMWssKQlrMHYnKMo7bUdhcYI1ldQ0abq=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOc866LKGXyi3oFD1ipJPITzDpVdUcPi10NC-s-=s680-w680-h510</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTnaqnosFO3bhN2BFsu6r1Z0d6alzm_c0BEE8JGPXI7HNYbvXrf8tCOF5eFWFKvXKOnd4</item>
+        <item>https://content.jdmagicbox.com/comp/bangalore/x3/080pxx80.xx80.151021133718.r8x3/catalogue/fortis-la-femme-richmond-road-bangalore-hospitals-0lx4hehgc0-250.jpg</item>
+        <item>https://images1-fabric.practo.com/practices/1232827/pm-santosha-multi-speciality-hospital-bangalore-5d3beff8ad296.JPG</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOjvNsqR0GnIJgiEqEvqTBrCureCumgoAjgm1zR=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOmsmPBjJHBXs5TIg8Mu6YOQUpsZmhPFEUS32Y=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMppGV2z5MEpeGBZK5zcnkea7UJD7lqM0iorhyG=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMVNx_jfmLvBhURLMUoJAKZopudProBs3IkS-sL=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPyqDMH211567tHUJ9YZH52DJdSJbagcCzw_Jrp=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPbxcPmdaOPbyc39UErBHUzzqGrDvXEDCeHI4w=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipM-F-3twVOjMnJUGBVEJjYNPCIrZNAeSlcGz4U6=s680-w680-h510</item>
+        <item>https://cdn.create.vista.com/api/media/small/361590992/stock-photo-equipment-medical-devices-modern-operating-room</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipO-RG01lWm9xgSJhMz2RoRixtA-lz7Cvg1KQNHE=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNouTNmyYrB09kz-F3qBYW1VjsEMJkPvRezSQIa=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPNjw6V8pJR_mp9LNfSyqdd-YXxmNtLAljluK0Z=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPvydDKpnM2W2FPXiVPWu__jo7rzc_i_CA9Wg93=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOXArf_CNQRxm4QmnfuLbyJHDBqudkfG8MmBv-1=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOmPP7_UENeUatrFlAUDi5c1al4GZnTc73mBiT5=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMFnaTwxHyMhJdZpKoI0MflmJeinzhdjbsbeZ5t=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOr4x-dqQ76cizbhfYNShsH0ir9Qo7euMvfoJ4J=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNAzyPQV7t563XZXHnqyxo1rcDEXGl8iovFY8gT=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPIB24AftjANWA-RWg8LmggxMdOl_qMJ9vv8AIr=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMgPu3D7wj3DZiVP2ebgzz2kgls9n5INhrNNAR9=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPrIBjbk9LOjY8u5iyCtGKxeboLkc12iz8dA6fg=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMVYXCmXrwbpO6eSn2Aw97r3b1UEBAFHICTAR9j=s680-w680-h510</item>
+        <item>https://images1-fabric.practo.com/sri-sai-ram-hospital-bangalore-1465997524-576158d490ccf.jpg</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPPffqCY9Mo5YSiV-HoIZkSTLrRL-D9Np4vX7Za=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMhQ70ThMzwWHeejLpruB2TGTwviHu3ckC-XTeC=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOQ66FUbSHhUXm3wmCM7JdrpjSns8P8GszDKPdq=s680-w680-h510</item>
+        <item>https://www.vaidam.com/sites/default/files/hospitals/private-room-min_1.jpg</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNnLvNkoaRh_nRhHrFEtzAvW_c1wpv-aAiu4OCk=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipN-2aCsvzoYQJiODzNBz-N78jAPXdsShrce7gmq=s680-w680-h510</item>
+    <item>https://lh3.googleusercontent.com/p/AF1QipMrfAoo7blAAJc5P2LepVeL7tiRXWLRRxHVnNRw=s680-w680-h510</item>
+<item>https://lh3.googleusercontent.com/p/AF1QipN_Pmx0dmwhxcs3xOysircF8DdlOpmgiAaL-QgI=s680-w680-h510</item>
+<item>https://lh3.googleusercontent.com/p/AF1QipO5XavNcD2KT_YeSogvJdxNjWH7Qw8ICiCewpiB=s680-w680-h510</item>
+<item>https://lh3.googleusercontent.com/p/AF1QipNcERhtLzJ_tXp-_UGRgUqMlQlQFTChBvIN109l=s680-w680-h510</item>
+<item>https://lh3.googleusercontent.com/p/AF1QipMigjhMjOpuq-DkMoNLabXdNrp3oYvW6Qm_CPtg=s680-w680-h510</item>
+	</string-array>
+
+    <string-array name="img4">
+        <item>https://lh3.googleusercontent.com/p/AF1QipN_vPi_vH6Uv19OlwlwUotAm02hbXIfj75qnxkt=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPXfFSXLGItfe0VpEffLRta5KTCs61IYHKnf5Wb=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipN1CwTZRE7DFVvzqTrNvHbaaS87L2UWn4_Q5oeh=s680-w680-h510</item>
+        <item>https://www.whatincity.com/wp-content/uploads/2020/02/shekhar-hospital-indira-nagar-lucknow-room-400x400.jpg</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipO3MoFJAnXf3y4rLfxKOBsZ8HdAlvI9-RlS4XGx=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOwEAdIz-HfFhOKC-OQ99BHhgudzjbK4E_LeFVd=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipN8YzcSfHcaHCgPaPIiAhdqKt3n0CzO51vCN-Mi=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipO9TkxUNADhTewjxIuLFdu7zRIR2yULJRJZHV3V=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipN0gHoYwhwiW9MwiVi6ANHJPjqbZ37pzqGlgY-x=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMX2joaSaSoUg4ghFMq9i6DOmLzrkrbYtCfaCKd=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOPnBLOe1EOXCqg6QxYi0oxJeMK-ZPAkVpMrxpd=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNUbkT8r5RAN7wmZFX9ZYYX8ipmmDWpvhZSnZEk=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipN9aXwCkPggPGtgMMuDw-MHLLinY1rBEc5WCnxI=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOHoo0_X19j9gP3iLeswvEmL2ZIboERfjbohU4n=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOTd_vdhU3ZoQ3MCehsUVhvbVaNgSh97-isFco=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOQT3cHFsfinO9waSxH45EDCFki-eVwnECjx6Lh=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPY89rJtzPq0WGzQ7YbO33-gQ98pEkriOhm65YL=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPCHXBH_CoXANb93sQ9yXVUdv8lnb7npxwQuVNJ=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipO7j1zjNm9R-7vUrikKRirI-fBBHfTuW-RogJAm=s680-w680-h510</item>
+        <item>https://lh5.googleusercontent.com/p/AF1QipMjnv2xn9s3Jyph_zjYQ3SaezH9_yptJjDAqGWV=w500-h500-k-no</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOeQa6fI-_cuWdb67NFZDkOqkkVrtTYzsIP5iDM=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipM3kts23f5-ajJrOb31knUYksAaOoKfFfxfoGIb=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNWxpp0huZ3TigzSky-E00tdfnbXFvTaePRg0Ts=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPKLc_VGdVohsqCZProjaQsjBSB2dDw57hMgHQD=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNfNcI8rIoBtl3L7751NX_ZzMop1EZXRSrWt8Zq=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMAacflZwVBaoORVVd7of17j77Ng6slINhMsHHe=s680-w680-h510</item>
+        <item>https://images1-fabric.practo.com/practices/1147654/life-plus-hospital-bangalore-644b81b018558.jpeg</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPhSYuxpw5C5w3SNCxtkch5C1Vj_irCmncH9cF1=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipM-ZGbp9G0B2ghuWM3GV2mMmHwnpZGYSPbYo_ZO=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOMvSKOxhM2rWRxOSkdkxRDT9E6KMMf5ThYmVFy=s680-w680-h510</item>
+        <item>https://images1-fabric.practo.com/practices/1423810/nano-hospital-bangalore-64677e0dc5a79.JPG</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOZOGvR1XKbl22Z62QhPZXx4ziamwna3-1yPmTR=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMxCo97MZEXEmCoeF9TrbN3ZCDaW5WQWiBCoomH=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPEOxd2t6hpXDD9785LbEXixI0yAiLYQFfScpgL=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMxCo97MZEXEmCoeF9TrbN3ZCDaW5WQWiBCoomH=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMzezcJdDTghnLVj-sXXock2lEWguT4afgRBnKM=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMiC7ez-rzCJHkoNV-5roNlFACUfWWgvZlPG13n=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNGVSsvcYteBiXZV5RpDwya7W-kPMAAzMuiQRBg=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOK4q1DQwlNc9WHPXopXIcjEXNV0UUv0P8NT0RP=s680-w680-h510</item>
+        <item>https://assets.centralindex.com/W/48/831e434b0d61a945e0d5bc23e8940105.jpg</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWwY5af9-6NdrU6-ZK14Vcm46e1VUDq6B2-FE7rsNU0-2mnBJ-iwpLamt8hfTM7aDpVls</item>
+        <item>https://content.jdmagicbox.com/comp/bangalore/83/080pjdypbg6583/catalogue/matru-nursing-home-and-trauma-care-centre-basaveshwara-nagar-bangalore-hospitals-teyan-250.jpg</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPZNwg4AizfEavs2KK0EtXmNf04RufUimDokdRk=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNIs1pEUyLjE_-0XwWif4AL7BgenX69A-zm-sQ1=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNBf5pq98BrB6NvsXDxIWSu6P0FS4J9SXW98eVh=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPwBP0lEA7IQfaQZpv2fcNJBSTzvPlQCoqB5jC8=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPVddEI0fJ83vwp_x87LMW_6vYoRnqjbWX0coQ0=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMRT3Q0yn1BuFO0xpZ9BjhXfYQaJxoK3YodsR4=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPrC9oqjKuZV29tLkiZF6Ig2_w3oyAA5kDmSg7H=s680-w680-h510</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOQ8jL65yrRiVfExviZIPYptrGZOHLZgtKHJTh_jwryw2yv2oNaNSk443i1QN80DvLG-c</item>
+        <item>https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsX29mZmljZV8yNV9zaW1wbGVfM2RfaWxsdXN0cmF0aW9uX29mX2FfcmVjb3Zlcnlfcm9vbV93aV80ZjhkNDIwNC02N2I4LTQwMDQtYTBlNy05YjljMjIyMzE2ZGVfMS5qcGc.jpg</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNco1G0X-SW-S2axlmFNZkCPSvBZAofmlQ44-5-=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNl1GEMzN3eWgufuvPuaMZ8ona6G6chWNqtlgia=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOY1f4XKm6CcmHZL6UUEuov09VBJay2InonKC8V=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPu8NtsItqpBw58wTte_LEq_CM7y01d3QB0Ug5C=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOEweoE7Nj9K2MKaWcQNGm66lPYEV8N5DAeBkA=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPc_TB8dOP0wDfbnWUQh2FyFmoOb0J2NiWP9bfm=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipP621xD6lNtsUAzAmQVQIANpcv6BnjJmQgESjuE=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOX-uyXZLO0xQ_1JarJfOJR_t4LB5rdXRJWDRFa=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOoJmhXcprJZEX0bK1ENbcDtLkUAGBMmzTChnR9=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPknmaDo6JfvVbvhxKT6V9bxYm6Dh-X7fsZHdLs=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipO4Xa-kF_08phvbJYuwvfxNpBo0-OW_KLXp8oc=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMC7fIfUZ-J52xSoWQN7_mDiNIWKqd7wzsXt0JL=s680-w680-h510</item>
+        <item>https://images1-fabric.practo.com/practices/1146542/chirag-hospital-bangalore-5d6e5449ca03a.jpg</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPLMAJUuV6bbj6VvfsfzEYuXgFSUoFTkgHH-48=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPWIeJJ328PK8cK35Mj4i28KC36reh6aECfwJXp=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNNlSTvrtqYkM5kJyg4EelLqGgK6l77bF0PslfZ=s680-w680-h510</item>
+        <item>https://www.vaidam.com/sites/default/files/hospitals/private-room-min_1.jpg</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPceOLxfrD_eBt6OrH21wszLTsB0EjOfiDHvOUa=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNqJTUAr1Rxf91Uvm5Q0YaqvXx3z7vptggPPa1m=s680-w680-h510</item>
+    <item>https://lh3.googleusercontent.com/p/AF1QipO5h3_d9LdqNJGrWAfKiq0hU9xf4Owfb_-yPGoB=s680-w680-h510</item>
+<item>https://lh3.googleusercontent.com/p/AF1QipPiM4WocNCUYx1vs1wwxbP9GpQqtlHSdEvVeuXp=s680-w680-h510</item>
+<item>https://lh3.googleusercontent.com/p/AF1QipPpaV7VqgvjihbqHvohfNIqVABmTjXOUGyBKvjP=s680-w680-h510</item>
+<item>https://lh3.googleusercontent.com/p/AF1QipN-pMunbhv5b6s-yDpvq7sw0RLUO1S74VH8xJNi=s680-w680-h510</item>
+<item>https://lh3.googleusercontent.com/p/AF1QipO-bzf9zzlMuNKCTOIys32Zt2stPGf8qF5r5U7b=s680-w680-h510</item>
+	</string-array>
+
+
+    <string-array name="img5">
+        <item>https://lh3.googleusercontent.com/p/AF1QipMrapAo90v9bHG4gJdHES_lnwp3DEP7sT_5Hhaj=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPA708qkBvfPDnUqZR28uaMe4Gpu16ivm6Bp201=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOOvOzMWoAjwfkHophvtbkirGCh5srP_CCD61bO=s680-w680-h510</item>
+        <item>https://images.jdmagicbox.com/comp/bangalore/w9/080pxx80.xx80.180928115007.s8w9/catalogue/manjunatha-nethralaya-bangalore-io153brcxj.jpg</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOFgTDlldCC2AxPj6vHfxrHHudGmQV6T0jSHPOQ=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNP7mfU53GxUPumgoI5DNnInnOXy6OKo7urnc_2=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOedYdN_jrTat0gMMmIzNxk6NtX_El7pGhsZhIZ=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipN7tcoixJrpLHmwr3Q6S2IZ_ynHeh0H_a2RZqTw=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMyfO0t9MhT5OyIkVsQB9vVmqhi0dUUSScl2EfS=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipO33eifillaZ2b5LH7ffs6Ebcyp8oN7aQPQsd05=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOA5ktGo8-f9R442S2aJwdBaiAbTxrGgqHuTWhw=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipN53sN9JsvBFA23M1-CDT5q4DBoK_aMsp8g9vtk=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNJuaE45QGQ_Qy9Bf5cZvfAzGnj4UesoNxfDnPG=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOzCDpS7aclNZhIGVXLQrc9gWglcDlTq_bgBWIV=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOX_F_WmFx07V90zFQMeBOmLG1eeGEK1KnCWiY=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipO3_exKJDOoWOg87PbRUBiuLa6UWesjcnjHyXGu=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPVkNv3_79wMdUO79c8AC2TlreJ90FKAB-WTuw2=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMTZXEPo2Q_xFeULY_kExHOaj50VwHh5V6hk_R3=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNAwGKDNxUILu_Fk-aJnPlBnLvREe-e0MAyeZv0=s680-w680-h510</item>
+        <item>https://content3.jdmagicbox.com/comp/mumbai/s4/022pxx22.xx22.210830154158.w9s4/catalogue/pristyn-care-clinic-borivali-west-mumbai-clinics-v543yntmr1.jpg</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMqkWUPTi8tbDbYCgVIjcVHMJPGtiLmQ-1-AVwF=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMkYPokJC-IKYwvLhCb8gg8kbw8vMQVEuV9rJx_=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNNqcq8wk85BWvI0zNY0X_MfVY3lxcLwo2prjrz=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMdAtWJ1EVXcOD_tkqzYa9YOudr8qAVHjL8SRuV=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMvoKzwXARN-v82YkvtYhCm2QnpCCrIgkniMrf6=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipO81HPNgTERcl60Ei3S6NeIqgAAkLHRHHFsjHZ_=s680-w680-h510</item>
+        <item>https://images1-fabric.practo.com/practices/832903/a-v-hospital-bangalore-5b3f3d72340bd.jpg/large</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPvRtddF7e2CXQ0yCWAhOy_xEdjz9OROXIZB3X9=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNpCXRC2LNkhspMSO4aDRDA44NvjDZJSc29EIkf=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMfMI8wl6CRJBsAr8U198Pe9Qga1uruHmqQMgE=s680-w680-h510</item>
+        <item>https://images1-fabric.practo.com/practices/1133915/century-hospital-hyderabad-596762ba11a7f.jpg</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOcc1Eex9jrLhC796x376PCUEyYTwVun_1iLpw=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPaARO3hUpUuFe2lgQtHkZbQ-dhU2yG5tb0ffx1=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNrHLEoNxHtTFMTxb91p78vC8lJ5fiATdOuIqmo=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPaARO3hUpUuFe2lgQtHkZbQ-dhU2yG5tb0ffx1=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipN3h1o2cBgDSyFZ2kTy4VvQQTB28hbh_jvoyJXY=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNHD1_z5hIvyNJL0JyGEUG9ZuczQYhFNDKwEUhc=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMzBdatmhxEcY-5P4RYsUhdEwcRR--mUe_xjq2J=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMxqLtQZwrqUwK6UY4FolzIvNQMqD-taaCq6TL4=s680-w680-h510</item>
+        <item>https://www.adskhan.com/wp-content/uploads/2019/09/homeocare-international-pvt-ltd-malleswaram-bangalore-homeopathic-doctors-e1690-1024x683.jpg</item>
+        <item>https://images1-fabric.practo.com/practices/1154556/fortis-hospital-bangalore-5da8622cb59eb.jpg</item>
+        <item>https://images1-fabric.practo.com/sagar-chandramma-hospitals-bangalore-1475662176-57f4d16014ae1.jpg</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPrx6acHgaU4XJiyza9sAQ50GHiOZPVeodQpb7J=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipO5XW-5QMyLaG_n6OXJT5BOmolrBfMFhdVI6OW2=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipP3LGAl3-z-jSPGbWefxXIFMCEQHbw_nQMMfd0N=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNR109zbXzqDrxNRf3R3Z_CC0tOictM9BQ8KQcX=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipM5G14JYXlcs094M_AW8rAUWB7ufwyVS-VOY23S=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipN6147X8JOF3fImFOPMn5L1nITuR0i3Dtuwi0nG=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNHwN6l4aMD211UGNr-pO9lhL4VFcEfshbTMfpQ=s680-w680-h510</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFLC-1u7ZiR3RiCbCS5z8KRQZp2JxurQL717oyZmlIou6CVYouJ1WI9s8iZkZ7sOmc9og</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0O87vf4cushKWoUc2Xnhj7vHtsDmci7-TJRjKwKpyfg</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMtGjrbsbOS9zYwSNsOAsxmwBhDfFK7BVtniGLe=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMl7jzulnWF5qJpAIgL4frTsaF3eNDWseGGINnw=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNPpPC1QAlhHNG_qQ52vhOXhaMAzc90YCGylbNF=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNyYIzapqDGhs1U58POkr9JR1UHSjt0ZF63gbge=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNwp336JKXH8WkfpuJKkms8ntvhwNfksr_LiL0m=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPx_E83iU1Tju4WDyfw14EnQHjFkSVY912rvIh1=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNGrggTcrTCzwUHPMndlA9-CQiinL7vSUvdMeZv=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipPajwltcGVZ1UO9zrAhCcuHJUFbJ9oxtFp94mzM=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMtxvlVyhgNdtXTqgYFOkILfpZowzLfhLn1Qamt=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOg1YYfyzxmlnF0NOKZZ8ubaVEeP6LynvNerFVV=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNW8uVQHMdIvTgeUnaoNz2rIXEqaJH07X8QPBo=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNVX5a-7LUt7MgMt5q2VuP_zhJCrgr1zsHS560=s680-w680-h510</item>
+        <item>https://content3.jdmagicbox.com/comp/bangalore/49/080pf010149/catalogue/sri-sai-ram-hospital-bannerghatta-road-bangalore-super-speciality-hospitals-n7gh0.jpg</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipMnxTN3-DNoOAaa5N0Jz5wo15uu7fUY5sVn7usZ=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOf1TSI7puEUwfY1QVDqbD3o9BnVy4d58f8VKcF=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/proxy/gSMCy5y3fge6-TLrrBM3tWXq52muLC4Z2Om3J396iYlWdDZvOp203kyeDnNZLgtaUlRam9TTnV7dWK8NoITAwZf0YbctIp45UGUyKKetMD5xByu-crFpsOr17xt7IR9E2uypSpLARhq2FYNFWBXuImMd96nEqCDYiS70Gg=s680-w680-h510</item>
+        <item>https://content.jdmagicbox.com/comp/bangalore/z7/080p1228375503j1g7z7/catalogue/sparsh-hospital-infantry-road-bangalore-hospitals-tleva-250.jpg</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipM_YmOlApZfnFSeFEKPE5AIsaRo9S0iGwlJI69K=s680-w680-h510</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipNVqvIQMbCS-3QL7tx9c2nJYnB4wDjtqMcChzOB=s680-w680-h510</item>
+<item>https://lh3.googleusercontent.com/p/AF1QipNepbLB1wm_BGyQpXIggd_ebrnlbhnWTLIhmkJo=s680-w680-h510</item>
+<item>https://lh3.googleusercontent.com/p/AF1QipMkik4jJEr0UDph7_vxvbZ_8A0bYJjK-u7ez9ns=s680-w680-h510</item>
+<item>https://lh3.googleusercontent.com/p/AF1QipPfsdcvRfWleJKV3OdR4thv563iiz0fXBiJ_qDk=s680-w680-h510</item>
+<item>https://lh3.googleusercontent.com/p/AF1QipMLG6GMLCXZVYhJuwS_DvX4p5zlNBbCCWzgjks9=s680-w680-h510</item>
+<item>https://lh3.googleusercontent.com/p/AF1QipN2it2v3TcOHxqDz7jh0_rqk6l0dvrfr3gHOvrp=s680-w680-h510</item>
+    </string-array>
+
+
+
+
+    <string-array name="hospitaltype">
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>Multispeciality</item>
+        <item>Eye</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>Obstetrician-gynecologist</item>
+        <item>General Hospital</item>
+        <item>Multispeciality</item>
+        <item>Multispeciality</item>
+        <item>Pharmaceuticals</item>
+        <item>Multispeciality</item>
+        <item>Medical Center</item>
+        <item>Maternity Hospital</item>
+        <item>General Hospital</item>
+        <item>Surgical center</item>
+        <item>Multispeciality</item>
+        <item>Multispeciality</item>
+        <item>Multispeciality</item>
+        <item>Homeocare</item>
+        <item>Multispeciality</item>
+        <item>Maternity Hospital</item>
+        <item>Multispeciality</item>
+        <item>Eye</item>
+        <item>General Hospital</item>
+        <item>Maternity Hospital</item>
+        <item>Multispeciality</item>
+        <item>Multispeciality</item>
+        <item>Multispeciality</item>
+        <item>Multispeciality</item>
+        <item>Multispeciality</item>
+        <item>Heart Hospital</item>
+        <item>Eye</item>
+        <item>General Hospital</item>
+        <item>Maternity Hospital</item>
+        <item>Homeopathy</item>
+        <item>Multispeciality</item>
+        <item>Multispeciality</item>
+        <item>Multispeciality</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>Multispeciality</item>
+        <item>Multispeciality</item>
+        <item>Multispeciality</item>
+        <item>Maternity Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>Cholesterol Hospital</item>
+        <item>Maternity Hospital</item>
+        <item>Multispeciality</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>Multispeciality</item>
+        <item>Multispeciality</item>
+        <item>Multispeciality</item>
+        <item>Multispeciality</item>
+        <item>orthopedics</item>
+        <item>Multispeciality</item>
+        <item>Multispeciality</item>
+		<item>Multispeciality</item>
+<item>Multispeciality</item>
+<item>Multispeciality</item>
+<item>Multispeciality</item>
+<item>Multispeciality</item>
+    </string-array>
+
+
+
+    <string name="title_activity_admin_add_hospital">AdminAddHospitalActivity</string>
+    <string-array name="hospitalnames">
+    <item>BMS Hospital</item>
+    <item>A.V. Hospital</item>
+    <item>SHANBHAG HOSPITAL</item>
+    <item>Gopala Nethralaya</item>
+    <item>Supra Hospital Basveshwarnagar</item>
+    <item>Chord Road Hospital Private Limited</item>
+    <item>Punya Hospital</item>
+    <item>GM Hospitals, Basaveshwaranagar</item>
+    <item>Agastya Speciality Clinics</item>
+    <item>Fortis Hospital Richmond Road</item>
+    <item>Belle Vues Cambridge Hospital</item>
+    <item>Gleneagles Global Hospitals, Richmond Road, Bengaluru</item>
+    <item>Apollo Hospital Seshadripuram</item>
+    <item>Sreenivasa Hospital</item>
+    <item>Fair Deal Pharma</item>
+    <item>Uvincare Hospitals Pvt Ltd.</item>
+    <item>ULSOOR GOVERNMENT MEDICAL CENTRE</item>
+    <item>Halasuru Referral Hospital</item>
+    <item>Q Medical Center and Hospital</item>
+    <item>Pristyn Care</item>
+    <item>Narayana Hospital, HSR Layout</item>
+    <item>Greenview Medical Center</item>
+    <item>Lotus Multi Speciality Hospital</item>
+    <item>Homeopathy Clinic</item>
+    <item>Apoorva Hospitals and Diagnostic Centre</item>
+    <item>Motherhood Hospital - Indiranagar</item>
+    <item>Life Plus</item>
+    <item>Nethradhama Super Speciality Eye Hospital</item>
+    <item>Citizen hospital</item>
+    <item>Vanivilas Hospital</item>
+    <item>Vasavi Hospital</item>
+    <item>Vasavi Hospital</item>
+    <item>Sagar Hospitals Kumaraswamy Layout</item>
+    <item>LondonCare Hospital Kumaraswamy Layout</item>
+    <item>Sagar Hospital</item>
+    <item>St. Marthas Hospital</item>
+    <item>Bhagwan Mahaveer Jain Nethralaya</item>
+    <item>Manipal Hospital</item>
+    <item>Lakshmi Maternity Surgical Center</item>
+    <item>Homeocare International Pvt Ltd</item>
+    <item>Fortis Hospital</item>
+    <item>Santosh hospital</item>
+    <item>Santosh Hospital - Best Multispeciality</item>
+    <item>Annasawmy Mudaliar General Hospital</item>
+    <item>Primecare Hospital</item>
+    <item>Seventh Day Adventist Medical Centre</item>
+    <item>Aspire Hospital</item>
+    <item>Abhinav Hospital</item>
+    <item>Sidvin Hospital Pvt Ltd</item>
+    <item>RMV Hospital</item>
+    <item>Shanthinagar Maternity Home</item>
+    <item>Dr Agarwal Hospitals</item>
+    <item>Jayashree Speciality Hospital</item>
+    <item>Blue Bliss Hospital</item>
+    <item>Fortis Hospital</item>
+    <item>Divine Speciality Hospital</item>
+    <item>Metro Hospital</item>
+    <item>Al-Ameen Hospital</item>
+    <item>Bhagwan Mahaveer Jain Hospital</item>
+    <item>Vijayanagar Hospital</item>
+    <item>Maruthi Hospital</item>
+    <item>Gayathri Hospital Pvt Ltd</item>
+    <item>Manasa Hospital</item>
+    <item>Sri Sairam Hospital</item>
+    <item>Gangothri Clinic</item>
+    <item>Cura Hospitals - Multispeciality Hospital in Bangalore</item>
+    <item>Rajshekar Multi Speciality Hospital</item>
+    <item>Sparsh YPR</item>
+    <item>Manipal Hospital Yeshwanthpur</item>
+    <item>People Tree Hospitals</item>
+	<item>Advaith Hospital</item>
+<item>Aster Cmi Hospital</item>
+<item>Rajanukunte Hospital</item>
+<item>Chiguru Hospital</item>
+<item>Raksha health care</item>
+    </string-array>
+
+</resources>

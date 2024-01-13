@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.hospitalfinderapp"
+    tools:ignore="ExtraText">
+    <!--<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"
+        tools:ignore="CoarseFineLocation" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />-->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"
+        tools:ignore="PermissionImpliesUnsupportedChromeOsHardware" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.HospitalFinderApp">
+        <activity
+            android:name=".AdminViewHospitalsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AdminMainPageActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AdminViewPatientsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AdminViewDoctorsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PatientViewAllHospitalsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PatientLoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PatientSearchHospitalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PatientSearchHospitalActivity1"
+            android:exported="false" />
+        <activity
+            android:name=".PatientViewAppointmentsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AdminViewAppointmentsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PatientMainPageActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NewDoctorActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AdminLoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NewPatientActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AdminAddHospitalActivity"
+            android:exported="false"
+            android:label="@string/title_activity_admin_add_hospital"
+            android:theme="@style/Theme.HospitalFinderApp.NoActionBar" />
+        <activity
+            android:name=".AppMainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

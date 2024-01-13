@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "834173878102",
+    "firebase_url": "https://fypapplication-3236c-default-rtdb.firebaseio.com",
+    "project_id": "fypapplication-3236c",
+    "storage_bucket": "fypapplication-3236c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834173878102:android:58c24559b0dd4b2b9420f7",
+        "android_client_info": {
+          "package_name": "com.example.fyp_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr3nIlWIFVPp4AK5gVO3yXHPSl7nArltQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834173878102:android:4ac9d2f600bff87d9420f7",
+        "android_client_info": {
+          "package_name": "com.example.hospitalfinderapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr3nIlWIFVPp4AK5gVO3yXHPSl7nArltQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

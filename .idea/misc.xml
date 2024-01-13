@@ -1,0 +1,28 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Projects/HospitalFinderApp/app/src/main/res/drawable-v24/shapesignup.xml" value="0.1525" />
+        <entry key="..\:/Android_Projects/HospitalFinderApp/app/src/main/res/drawable/shapesignin.xml" value="0.1525" />
+        <entry key="..\:/Android_Projects/HospitalFinderApp/app/src/main/res/drawable/shapesignup.xml" value="0.1525" />
+        <entry key="..\:/Android_Projects/HospitalFinderApp/app/src/main/res/layout/activity_admin_add_doctors.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android_Projects/HospitalFinderApp/app/src/main/res/layout/activity_admin_add_hospital.xml" value="0.11730072463768115" />
+        <entry key="..\:/Android_Projects/HospitalFinderApp/app/src/main/res/layout/activity_admin_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android_Projects/HospitalFinderApp/app/src/main/res/layout/activity_admin_main_page.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android_Projects/HospitalFinderApp/app/src/main/res/layout/activity_admin_view_doctors.xml" value="0.25" />
+        <entry key="..\:/Android_Projects/HospitalFinderApp/app/src/main/res/layout/activity_admin_view_hospitals.xml" value="0.25" />
+        <entry key="..\:/Android_Projects/HospitalFinderApp/app/src/main/res/layout/activity_admin_view_patients.xml" value="0.25" />
+        <entry key="..\:/Android_Projects/HospitalFinderApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android_Projects/HospitalFinderApp/app/src/main/res/layout/activity_main_app.xml" value="0.25" />
+        <entry key="..\:/Android_Projects/HospitalFinderApp/app/src/main/res/layout/activity_new_doctor.xml" value="0.33" />
+        <entry key="..\:/Android_Projects/HospitalFinderApp/app/src/main/res/layout/activity_new_patient.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
